@@ -6,4 +6,4 @@
 2. 复制到Pakku黑名单
 3. 保存
 
-(刚发出来[又找到一个轮子](https://github.com/jnxyp/Bilibili-Block-List)……有点旧，整合一下)
+另外推荐一个网站：[Bilibili 屏蔽词分享平台](https://harrynull.tech/bilibili/#sharelist) 本正则已集成其中大部分个人认为需要的规则
