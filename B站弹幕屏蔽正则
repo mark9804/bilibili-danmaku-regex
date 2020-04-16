@@ -7,6 +7,7 @@
 [8８][＝=]+D
 ^[\/\\]
 ^[^\u4E00-\u9FA5]$
+[a-zA-Z]{12,}|^((?![AaEeIiOoUu]|[WwSsHhXx][HhSsDd][YyMmDdWw][Ll])[^\u4E00-\u9FA5])*$|[AaSsDdFf]{4,}
 弹\s*[屏幕][^护]*$
 倍速
 [3３三立]\s+[dDＤ体體]
