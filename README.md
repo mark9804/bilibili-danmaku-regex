@@ -5,12 +5,12 @@
 ### 1. 使用pakku黑名单
 
 1. 全选并复制[Raw文件](https://raw.githubusercontent.com/Mark9804/bilibili-danmaku-regex/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99.txt)
-2. 粘贴到到Pakku黑名单中![示例](https://github.com/Mark9804/bilibili-danmaku-regex/raw/master/images/pakku-blacklist.png)
+2. 粘贴到到Pakku黑名单中（黑名单功能需要开启全部设置方可见）![示例](https://github.com/Mark9804/bilibili-danmaku-regex/raw/master/images/pakku-blacklist.png)
 3. 保存（已打开的视频需要刷新之后才能正确应用黑名单）
 
 ### 2. 使用B站自带过滤器
 
-1. 全选并复制[XML文件](https://raw.githubusercontent.com/Mark9804/bilibili-danmaku-regex/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99.xml)
+1. 下载或自行复制保存[XML文件](https://raw.githubusercontent.com/Mark9804/bilibili-danmaku-regex/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99.xml)
 2. 在B站播放器“屏蔽设定”的空白位置**右键单击**，选择“导入XML文件”![示例](https://github.com/Mark9804/bilibili-danmaku-regex/raw/master/images/bilibili-blacklist.png)
 3. 应用相关设置
 
