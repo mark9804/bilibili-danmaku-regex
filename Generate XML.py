@@ -1,13 +1,16 @@
 # coding:utf-8
-import re
+from re import search
 
 
 def generatexmlbyline(text):
     with open(generateFile, 'a') as file_xml:
-        if re.search(r'\\|\^|\||\$|\*|\+|\?|\{|\}|\.|\(|\)|\[|\]|\\s', text) is not None:
-            file_xml.write('\t<item enabled="true">r=' + text.strip('\n') + '</item>\n')
+        if search(r'\\|\^|\||\$|\*|\+|\?|\{|\}|\.|\(|\)|\[|\]|\\s', text) is not None:
+            file_xml.write('  <item enabled="true">r=' +
+                           text.strip('\n') + '</item>\n')
         else:
-            file_xml.write('\t<item enabled="true">t=' + text.strip('\n') + '</item>\n')
+            file_xml.write('  <item enabled="true">t=' +
+                           text.strip('\n') + '</item>\n')
+
 
 textFile = 'B站弹幕屏蔽正则'
 generateFile = 'B站弹幕屏蔽正则.xml'
