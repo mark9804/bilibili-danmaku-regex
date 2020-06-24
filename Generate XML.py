@@ -12,7 +12,7 @@ def generatexmlbyline(text):
                            text.strip('\n') + '</item>\n')
 
 
-textFile = 'B站弹幕屏蔽正则'
+textFile = 'B站弹幕屏蔽正则.txt'
 generateFile = 'B站弹幕屏蔽正则.xml'
 with open(generateFile, 'w') as file_xml:
     file_xml.write("<filters>\n")

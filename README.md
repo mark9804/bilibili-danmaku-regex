@@ -2,7 +2,7 @@
 结合[pakku.js](https://github.com/xmcp/pakku.js)使用的自用B站弹幕屏蔽正则
 
 ## 怎么用
-1. 全选并复制[Raw文件](https://raw.githubusercontent.com/Mark9804/bilibili-danmaku-regex/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99) (额外提供[XML文件](https://raw.githubusercontent.com/Mark9804/bilibili-danmaku-regex/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99.xml))
+1. 全选并复制[Raw文件](https://raw.githubusercontent.com/Mark9804/bilibili-danmaku-regex/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99.txt) (额外提供[XML文件](https://raw.githubusercontent.com/Mark9804/bilibili-danmaku-regex/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99.xml))
 2. 粘贴到到Pakku黑名单
 3. 保存（已打开的视频需要刷新之后才能正确应用黑名单）
 
