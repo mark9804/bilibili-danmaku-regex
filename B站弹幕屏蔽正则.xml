@@ -253,6 +253,7 @@
   <item enabled="true">r=不送$</item>
   <item enabled="true">t=精神胜利</item>
   <item enabled="true">r=就这[》、\,，\.。\>？\?¿\s]|^(就这)+$|京尤辶文|[Jj][Ii][Uu][Zz]|就这$</item>
+  <item enabled="true">r=^(口我|哦)$|(口我|哦)[》、\,，\.。\>？\?¿\s]</item>
   <item enabled="true">r=单[抽发].*出</item>
   <item enabled="true">r=([0-9]+|连|发|保底)抽?[才没不]?出</item>
   <item enabled="true">r=炸出|见.*封.*[滚进近仅禁金]</item>
@@ -620,7 +621,6 @@
   <item enabled="true">r=(安卓|[Aa]ndroid|小米|魅族|华为|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?.*([抄偷像]|借鉴|复制|领先)|([抄偷像]|借鉴|复制|领先).*(安卓|[Aa]ndroid|小米|魅族|华为|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?</item>
   <item enabled="true">r=(安卓|[Aa]ndroid|小米|魅族|华为|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?[狗🐶]</item>
   <item enabled="true">r=(安卓|[Aa]ndroid|小米|魅族|华为|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?.*比.*(安卓|[Aa]ndroid|小米|魅族|华为|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?</item>
-  <item enabled="true">r=^口我$</item>
   <item enabled="true">r=骂啊|继续[骂喷]</item>
   <item enabled="true">r=一群([傻喷]子|睿智)</item>
   <item enabled="true">t=井底之蛙</item>
@@ -628,7 +628,8 @@
   <item enabled="true">r=[还可就]真.*当回事</item>
   <item enabled="true">r=([行好]|彳亍|可以)了吧</item>
   <item enabled="true">r=(什么|啥子?|毛线?)[破烂]?玩意</item>
-  <item enabled="true">r=[\(（]?(滑稽|狗头)[\(（]?$</item>
+  <item enabled="true">r=[\(（]?(滑稽|狗头|[Dd][Oo][Gg][Ee])[\(（]?$</item>
   <item enabled="true">r=^(安卓|[Aa]ndroid|小米|魅族|华为|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?$</item>
   <item enabled="true">r=不([能给让]|可以)说了?[么馬嘛吗码马玛🐎妈🐴没不\?？]</item>
+  <item enabled="true">r=网(抑|[Yy][Ii])云|(阴|[Yy][Ii][Nn])乐</item>
 </filters>
