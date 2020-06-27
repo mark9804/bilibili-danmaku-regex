@@ -1,13 +1,16 @@
 # coding:utf-8
 from re import search
+from re import sub
 
 
 def generatexmlbyline(text):
     with open(generateFile, 'a') as file_xml:
         if search(r'\\|\^|\||\$|\*|\+|\?|\{|\}|\.|\(|\)|\[|\]|\\s', text) is not None:
-            file_xml.write('  <item enabled="true">r=' +
-                           text.strip('\n') + '</item>\n')
-        else:
+            if search(r'\(\?\<?\!', text) is None:
+                file_xml.write('  <item enabled="true">r=' + text.strip('\n') + '</item>\n')
+            elif search(r'\(\?\<?\!', text) is not None:
+                pass
+        elif search(r'\\|\^|\||\$|\*|\+|\?|\{|\}|\.|\(|\)|\[|\]|\\s', text) is None:
             file_xml.write('  <item enabled="true">t=' +
                            text.strip('\n') + '</item>\n')
 
