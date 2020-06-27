@@ -8,7 +8,7 @@
 2. 粘贴到到Pakku黑名单中（黑名单功能需要开启全部设置方可见）![示例](https://github.com/Mark9804/bilibili-danmaku-regex/raw/master/images/pakku-blacklist.png)
 3. 保存（已打开的视频需要刷新之后才能正确应用黑名单）
 
-⚠️**注意：Firefox版pakku不支持前后向查找**，请尽可能使用Chrome。如果一定要使用Firefox的话需要删除包含前后向查找的正则（以`(?!`或`(<!`为开头）
+⚠️**注意：Firefox版pakku不支持前后向查找**，请尽可能使用Chrome浏览器。如果一定要使用Firefox，请使用pakku的“导入XML文件”功能。
 
 ### 2. 使用B站自带过滤器
 
@@ -16,6 +16,6 @@
 2. 在B站播放器“屏蔽设定”的空白位置**右键单击**，选择“导入XML文件”![示例](https://github.com/Mark9804/bilibili-danmaku-regex/raw/master/images/bilibili-blacklist.png)
 3. 应用相关设置
 
-⚠️XML文件是自动生成的，我没有测试过。如果出现应用文件后弹幕全部消失的情况请清除屏蔽列表中正则表达式内容；如果导入失败请删除包含前后向查找的正则（以`(?!`或`(<!`为开头）
+⚠️XML文件是自动生成的，我没有测试过。如果出现应用文件后弹幕全部消失的情况请清除屏蔽列表中正则表达式内容；**为保证兼容性，XML文件不包含含有前后向断言的正则**
 
 另外推荐一个网站：[Bilibili 屏蔽词分享平台](https://harrynull.tech/bilibili/#sharelist) 本正则已集成其中大部分个人认为需要的规则。但是**网友的创造力是无穷的，遇到漏网弹幕也希望大家能够提出PR和[Issue](https://github.com/Mark9804/bilibili-danmaku-regex/issues)，共建美好B站**。
