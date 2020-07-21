@@ -90,13 +90,13 @@
   <item enabled="true">r=[^共和产民主野]党</item>
   <item enabled="true">r=没有?人[了吐槽在再看馬嘛吗码马玛🐎妈媽🐴\?？]</item>
   <item enabled="true">r=^(有|[Yy][Oo][Uu])$</item>
-  <item enabled="true">r=(咋|怎么|为(什么|啥|毛线?))[没木么]有?人|^[,\.\?\\\/\[\]\{\}，。？「」【】]?人呢$|有人正?[在再]?看?([Mm][Aa]?|[吗马玛🐎妈🐴嘛没不么])|[Yy].{2}[Rr].{2}[Mm]|[Yy][Rr][Mm]|^没人$|.然还?有人|人((怎么|为(什么|[啥嘛吗]|毛线?)变?|变)|越来越)少了|人[好真][少多]|还有人在|(只有|[都总还也]是)我一个</item>
+  <item enabled="true">r=(咋|怎么|为(什么|啥|毛线?))[没木么]有?(人|老[哥铁]|朋友|大?[兄胸]弟)|^[,\.\?\\\/\[\]\{\}，。？「」【】]?(人|老[哥铁]|朋友|大?[兄胸]弟)呢$|有(人|老[哥铁]|朋友|大?[兄胸]弟)正?[在再]?看?([Mm][Aa]?|[吗马玛🐎妈🐴嘛没不么])|[Yy].{2}[Rr].{2}[Mm]|[Yy][Rr][Mm]|^没人$|.然还?有(人|老[哥铁]|朋友|大?[兄胸]弟)|(人|老[哥铁]|朋友|大?[兄胸]弟)((怎么|为(什么|[啥嘛吗]|毛线?)变?|变)|越来越)少了|(人|老[哥铁]|朋友|大?[兄胸]弟)[好真][少多]|还有(人|老[哥铁]|朋友|大?[兄胸]弟)在|(只有|[都总还也]是)我一个</item>
   <item enabled="true">r=都在(认真|专心)看</item>
   <item enabled="true">r=证明[你妳]</item>
   <item enabled="true">r=烦不烦|有完?没完</item>
   <item enabled="true">r=.{2,}我?(喜欢|爱|想|宣)[你妳]</item>
   <item enabled="true">r=(只有|就|没有?)?[我人](觉[的地得]|[用哪拿]来|.*当[作做]|一直)</item>
-  <item enabled="true">r=[Pp批匹][Xx小][Jj将酱]|[ZzMmDd米舟粥]([WwXx卫][BbZz兵]|[黑黒])|[你妳贵饭粉][站国圈]|孝子</item>
+  <item enabled="true">r=[Pp批匹][Xx小][Jj将酱]|[ZzMmDd米舟粥]([WwXx卫][BbZz兵]|[黑黒])|[你妳贵饭粉肖][站国圈]|孝子</item>
   <item enabled="true">r=[猎牧]([Mm][Aa]?|[馬嘛吗码马玛🐎妈媽🐴])人</item>
   <item enabled="true">r=.总.*好|[恭欢]迎.总</item>
   <item enabled="true">r=([來来莱勒嘞雷累][了辽啦辣拉].?){2,}|^[Ll][AaEe][Ii][Ll了]|^[我又]?[來来莱勒嘞][了辽咯啦辣拉力]</item>
@@ -107,7 +107,7 @@
   <item enabled="true">r=[^a-zA-Z][Kk][Yy][^a-zA-Z]</item>
   <item enabled="true">r=魔怔|[睿弱][治智]|巨婴|脑[残瘫]|([坑撕怂狗臭血]|[Ll][Oo][Ww])[逼比笔子缺Bb货币]|[\u4e00-\u9fa5\s][NnRrZz][CcTtZz]|^[NnRrZz]([Uu][Ii]|[Aa][Oo])?[CcTtZz]$|人渣|废物|萌豚|有病|娘炮|蠢猪|[老劳][资資]|崽子|扇脸|丢[你泥尼拟雷累类妮呢伱妮][老楼漏螺][母某]|扑街|欠(打|日|操|草|艹|抽|收拾)</item>
   <item enabled="true">r=(求|我|祝|保佑).{0,5}[考上]|保佑.{0,5}[我前不挂]|考神</item>
-  <item enabled="true">r=引战|[我你可能]闭嘴|打脸|脸疼[不么馬嘛吗码马玛🐎妈媽🐴\?？]|脸[伸凑]过来|[蒙懵傻][蔽逼比笔子缺Bb货币圈]了[吧把不么馬嘛吗码马玛🐎妈媽🐴\?？]|[没低么]素质|[键鍵][盘盤](侠|大手|斗士|[黨党])|[键鍵]圣|喷子|[撕逼][逼Bb]</item>
+  <item enabled="true">r=引战|[我你可能]闭嘴|打脸|脸疼[不么馬嘛吗码马玛🐎妈媽🐴\?？]|脸[伸凑]过来|[蒙懵傻][蔽逼比笔子缺Bb货币圈]了[吧把不么馬嘛吗码马玛🐎妈媽🐴\?？]|[没低么]素质|[键鍵][盘盤](侠|大手|斗士|[黨党])|[键鍵][圣仙]|喷子|[撕逼][逼Bb]</item>
   <item enabled="true">r=([狗🐶犬]|[Dd][Oo][Gg])[爹妈]</item>
   <item enabled="true">r=崔化钠|绿[绿教]|神棍|孙([笑咲]川|[狗🐶])|咲川</item>
   <item enabled="true">r=美.{0,1}[分爹狗]|哈[日韩]|德棍|[俄洋美]爹|小(日本|粉红)|精[日赵罗]|[日黄皇][杂砸]|自慰队?|大和魂|鬼子|支[那哪呐]|汉[奸Jj]|奴性|慕洋犬|跪久了|五毛|自干五|[你赵][国國党]|[^A-Za-z ][Tt][Gg][^A-Za-z ]|[姓性恨][国國党]|大[陆陸]|天朝|棒子|反[送美日韩]|键政|[愤废]青|国蛆|[皇黄][俄杂砸汉]|埃及人|黄尸|[阿啊]中哥哥|[阿啊]冠|种花家|[国國]耻|[国國]人就|[[滚滾]|滾](.{0,5}[吧粗出]|\s|！)|美利坚.*每一天</item>
@@ -122,7 +122,7 @@
   <item enabled="true">r=[我你].{0,3}(老婆|媳妇|女儿|儿子|孙子)|[我你妳您宁].{0,3}女((朋|盆){0,3}友|人|票)|我的?男神|^.{2,6}[我咱].{0,2}的|.{1,}嫁.我|我[的哒]$|^.{0,6}[表告]白|[儿孙]子们|([是由]|下面.*)我[儿孙]子</item>
   <item enabled="true">r=(清|刷|增加|霸).{0,2}([弹彈][幕目]|屏|频|啊|呀|起[來来])|[求能]?[不别少]([要][再在]?)?[刷扯]|(消灭|拒绝)[0无没][弹彈][幕目]|[弹彈][幕目].{0,4}(压惊|冷[静精茎])|[发刷].{2,8}的</item>
   <item enabled="true">r=到此一游|观光团|每[天日]\S{1,}|\S{1,}周目|[第每]\S{1,}遍|一[天日分秒]不[看听刷重循].*难受</item>
-  <item enabled="true">r=[关關].*[弹彈]幕[^保智]|[当档挡].*([屏字]幕|字母)|[低底顶丁左右][端部舷弦][弹彈]幕|[Dd][Aa][Nn][Mm][Uu]|[关關][弹彈]幕了|[弹彈]幕数|[红紅橙黄绿綠青蓝紫黑黒白灰]色?字</item>
+  <item enabled="true">r=[关關].*[弹彈]幕[^保智]|[当档挡].*([屏字]幕|字母)|[低底顶丁左右][端部舷弦][弹彈]幕|[Dd][Aa][Nn][Mm][Uu]|[关關][弹彈]幕了|[弹彈]幕数|[红紅橙黄绿綠青蓝紫黑黒白灰]色?字|专[属用][颜配]?色</item>
   <item enabled="true">r=地域[黑黒]</item>
   <item enabled="true">r=[妖帝魔伪废成]都|辽宁|吉林|[黑黒]龙江|[山陕江广]西|甘肃|青海|安徽|江苏|浙江|[河赫][男南北]|湖[北南]|[台薹臺呆湾弯][湾灣弯]|[福胡糊湖][健建]|[云海]南|四川|[贵广]州|[广山⛰️沙][东冬洞]|内蒙古|新疆|西藏|宁夏|北京|上海|天津|重庆|香港|澳[门門]|深圳|东[北白百]|瑞典</item>
   <item enabled="true">r=[^A-Za-z](by|BY|By)[^A-Za-z]</item>
@@ -184,13 +184,13 @@
   <item enabled="true">r=[果米][蛆吹]|(米|[Mm][Ii])[Bb][Oo][Yy]|[米海][猴侯🐒狗站]|[花黑黒][粉黒黑][^(症|过敏)]|海军|(锤|反串)[爆黑黒]|[索🔒软任][🐶狗猴🐒]|[拳👊]师|[女男蝻南][犬拳👊狗🐶]|直[男女]|耍猴|猴戏|(华为|海军|战狼)[Pp][Tt][Ss][Dd]|精\s{0,}神\s{0,}股\s{0,}东|[猾花]萎|某[华花菊米为]|(菊花|粗粮)(厂|公司|企业)|增.?智慧|方向错了|路走窄了|有失公允|徒增功耗|感知不强|[翁嗡]{3,}|[辱乳][华米]|米系[Kk][Oo][Ll]|[菊哇娃瓦蛙]为|猴子|[粉粪]蛆</item>
   <item enabled="true">r=[国蝈吊屌][男腩蝻癌子]</item>
   <item enabled="true">t=自我高潮</item>
-  <item enabled="true">t=能当饭吃</item>
+  <item enabled="true">r=能当[做坐作]?饭吃</item>
   <item enabled="true">r=吃[你妳您宁]家(大?米|粮食?|东西|的|什么|啥子?)了</item>
   <item enabled="true">t=拉倒</item>
   <item enabled="true">r=[阴Yy][阳Yy][怪Gg][气Qq]</item>
   <item enabled="true">r=还有脸|说[得的]出口</item>
   <item enabled="true">r=带节奏|节奏[大带]师|节奏[党狗🐶]</item>
-  <item enabled="true">r=^不好意思|^不是我说|^恕我直言|我(为什么|[为干][啥嘛]|咋|怎么)不|^我?还不如|纯路人|^抱歉|^对不起</item>
+  <item enabled="true">r=^(不好意思|不是我说|恕我直言)|我(为什么|[为干][啥嘛]|咋|怎么)不|^我?还不如|纯路人|^抱歉|^对不起</item>
   <item enabled="true">r=我(的|今[天日])?(生|破[蛋壳]|[诞誕]生)日|今[天日]是?我的?(生|破[蛋壳]|[诞誕]生)日</item>
   <item enabled="true">r=鄙视|[^a-zA-Z][Bb][Ii][Ss][Ss][^a-zA-Z]</item>
   <item enabled="true">r=自以为是|不会真|真就?(以为|认为|觉得|哪里?都)|真就.*[呗馬嘛吗码马玛🐎妈媽🐴\?？么]</item>
@@ -376,7 +376,7 @@
   <item enabled="true">r=看[把吧给].*急的</item>
   <item enabled="true">r=会死[么吗嘛马玛🐎妈媽🐴\?？]</item>
   <item enabled="true">r=我.*不知道[么馬嘛吗码马玛🐎妈媽🐴\?？]</item>
-  <item enabled="true">t=给自己留点脸</item>
+  <item enabled="true">r=给自己留点[脸面]</item>
   <item enabled="true">r=(就|已经)有了|jiuyoul</item>
   <item enabled="true">r=是.*[谢靴]{2}</item>
   <item enabled="true">r=(什么|啥样?|毛线?|怎样)的?人[才会]</item>
@@ -435,7 +435,7 @@
   <item enabled="true">r=又当.*又立|自立牌坊</item>
   <item enabled="true">r=共享.*(女友|老婆)|(女友|老婆).*共享</item>
   <item enabled="true">r=[你妳您宁]多大点?(脸|本事)</item>
-  <item enabled="true">r=去?死吧|去死</item>
+  <item enabled="true">r=死吧|去死</item>
   <item enabled="true">r=[忌祭]日快乐|你的?[忌祭]日</item>
   <item enabled="true">r=还有人[在再]?刷</item>
   <item enabled="true">r=有够.*好[笑鸮孝肖]的呢|[孝哮]死</item>
@@ -451,7 +451,7 @@
   <item enabled="true">r=[我俺]寻思.*吧</item>
   <item enabled="true">r=到[你妳您宁]嘴[里中上]</item>
   <item enabled="true">r=[要用][你妳您宁]说</item>
-  <item enabled="true">r=[是四4⃣️4]不[是四4⃣️4]傻</item>
+  <item enabled="true">r=[是四4⃣️4似]不[是四4⃣️4似]傻</item>
   <item enabled="true">r=前面.*的[,，\s]</item>
   <item enabled="true">t=屁事</item>
   <item enabled="true">r=关.*(毛线?|什么|鸟)事</item>
@@ -637,4 +637,7 @@
   <item enabled="true">r=[男女]人就(应?该|要)</item>
   <item enabled="true">r=没有?兴趣</item>
   <item enabled="true">r=我们.*真[是的]太厉害[了啦]</item>
+  <item enabled="true">r=不过([就只]|就只)?是个</item>
+  <item enabled="true">r=就是?嘴[巴上]?说说</item>
+  <item enabled="true">r=什么德[行性]</item>
 </filters>
