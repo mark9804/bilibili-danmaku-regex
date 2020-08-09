@@ -643,4 +643,5 @@
   <item enabled="true">r=([狗🐶]|[Gg]([Oo][Uu])?)(东西|玩意)</item>
   <item enabled="true">r=原神.*(抄|碰瓷)|(抄|碰瓷).*原神</item>
   <item enabled="true">r=还真就?(把自[己个]当|当自[己个])</item>
+  <item enabled="true">r=[你妳您宁泥尼拟妳伱妮呢]来辣</item>
 </filters>
