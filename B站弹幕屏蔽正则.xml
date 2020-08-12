@@ -301,7 +301,8 @@
   <item enabled="true">r=有(何|什么|啥|毛线?)?区别[么馬嘛吗码马玛🐎妈媽🐴]</item>
   <item enabled="true">r=不服$|来战$|无所畏惧$</item>
   <item enabled="true">r=(看|感觉)不出|没差</item>
-  <item enabled="true">r=([大带]|终身|十年|年度)会员</item>
+  <item enabled="true">r=([大带]|终身|十年|年度)会员|[留流]下([氪课]金|[大带]?会员|[金充🐛虫]钱|富[贵足族])的(记录|[足印痕][迹印]|(脚|[Jj][Ii][Oo])[步印])</item>
+  <item enabled="true">r=^合影|[留流刘][念名]$|^[留流]下?(记录|[足印痕]迹|(脚|[Jj][Ii][Oo]\s?)+[步印])$|^(脚|[Jj][Ii][Oo]\s?)+[步印]$</item>
   <item enabled="true">r=^有(什么|啥|毛线?)问题[么馬嘛吗码马玛🐎妈媽🐴\?？]|有(什么|啥|毛线?)问题[么馬嘛吗码马玛🐎妈媽🐴\?？]$</item>
   <item enabled="true">r=^[放狗]屁|[放狗]屁$</item>
   <item enabled="true">r=我(还是|选择)[^死狗]</item>
@@ -339,7 +340,7 @@
   <item enabled="true">r=唱[得的]好$</item>
   <item enabled="true">r=去[你妳您宁尼泥].?的|本来就是</item>
   <item enabled="true">t=出来丢人</item>
-  <item enabled="true">r=说(啥|[你妳您宁尼泥Nn][么馬嘛吗码马玛🐎妈🐴Mm].*)呢</item>
+  <item enabled="true">r=说(啥|什么).*呢</item>
   <item enabled="true">r=[你妳您宁尼泥Nn][么馬嘛吗码马玛🐎妈媽🐴Mm].*呢</item>
   <item enabled="true">r=抬走.?$</item>
   <item enabled="true">r=(说[得的地][好对]|有道理).*我选</item>
@@ -589,7 +590,7 @@
   <item enabled="true">r=我就(奇怪|不(懂|明白))了</item>
   <item enabled="true">t=贱不贱</item>
   <item enabled="true">t=什么鸟</item>
-  <item enabled="true">r=([你我他]急了|不[是会]吧)+</item>
+  <item enabled="true">r=([你我他它她]急了|不[是会]吧)+</item>
   <item enabled="true">r=([我爷👴]|老子|劳资|[Ll][Zz])给?[逗整][乐笑鸮孝肖]了</item>
   <item enabled="true">r=[正盗]版</item>
   <item enabled="true">t=听个响</item>
@@ -602,6 +603,7 @@
   <item enabled="true">r=[Mm]oh[ie][td]o|莫[嘿黑黒][托多]</item>
   <item enabled="true">r=(听|感[觉受])不(出来?|[到了])[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
   <item enabled="true">r=不会用.*[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
+  <item enabled="true">r=^([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac([Bb]ook)?|[Ff]lyme|[Mm][Ii][Uu][Ii])》?$</item>
   <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?.*[卡狗🐶]</item>
   <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?.*([抄偷像]|借鉴|复制|领先|碰瓷)|([抄偷像]|借鉴|复制|领先|碰瓷).*([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?</item>
   <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?.*比.*([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac.*|[Ff]lyme|[Mm][Ii][Uu][Ii])》?</item>
@@ -614,7 +616,6 @@
   <item enabled="true">r=([行好]|彳亍|可以)了吧</item>
   <item enabled="true">r=(什么|啥子?|毛线?)[破烂]?玩意</item>
   <item enabled="true">r=[\(（]?(滑稽|狗头|[Dd][Oo][Gg][Ee])[\)）]?$</item>
-  <item enabled="true">r=^([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm]ac([Bb]ook)?|[Ff]lyme|[Mm][Ii][Uu][Ii])》?$</item>
   <item enabled="true">r=不([能给让]|可以)说了?[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
   <item enabled="true">r=网(抑|[Yy][Ii])云|(阴|[Yy][Ii][Nn])乐</item>
   <item enabled="true">t=砖家</item>
