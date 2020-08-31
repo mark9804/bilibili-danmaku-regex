@@ -81,7 +81,7 @@
   <item enabled="true">r=[一-六那哪几]年[级记极纪]|[初高中大学][一-四]</item>
   <item enabled="true">r=[从顺沿][^网线].*过?来|过来的</item>
   <item enabled="true">r=[恰掐洽].*[饭钱]|洗.*地|水军|(花式|真能)[洗舔添]|跪[舔添]|烂钱.*[恰掐洽]</item>
-  <item enabled="true">r=[洗舔]地[狗🐶]</item>
+  <item enabled="true">r=[洗舔]地[狗🐶]|还([和合搁][这着])?洗.*</item>
   <item enabled="true">r=还(能|需?要)[恰掐洽]</item>
   <item enabled="true">r=[此今]生[无不]?悔入</item>
   <item enabled="true">r=入.?坑</item>
@@ -128,7 +128,7 @@
   <item enabled="true">r=[^A-Za-z](by|BY|By)[^A-Za-z]</item>
   <item enabled="true">r=(我知道[你妳]|[你妳][一肯]定)[在再能]看|[我只唯惟]独?[喜欢宣爱]</item>
   <item enabled="true">r=(老婆|媳妇|女儿|儿子|孙子)(的){0,}本子|女((朋){0,}友|人|票)(的){0,}本子</item>
-  <item enabled="true">r=[神蛇深Ss][经井Jj][病冰Bb]|(精神|脑[瓜子壳]|大脑).*(有?毛?病|不(正常|好[使用]|被[驴门]?[踢夹挤]了)|有问题|[摔烧]坏|进|瓦特)|([摔烧]坏|换个|看看)(脑子|大脑)|(脑[瓜子壳]|大脑|智商)呢</item>
+  <item enabled="true">r=[神蛇深Ss][经井Jj][病冰Bb]|(精神|脑[瓜子壳]|大脑).*(有?毛?病|不(正常|好[使用]|被[驴门]?[踢夹挤]了)|有问题|[摔烧]坏|进|瓦特|有坑)|([摔烧]坏|换个|看看)(脑子|大脑)|(脑[瓜子壳]|大脑|智商)呢|过(脑子|大脑)</item>
   <item enabled="true">r=[你妳您宁]行.*[你妳您宁]上|[Yy]ou can you up|can('t|t)?.*[Bb逼哔]{2}|你[来去]?试试|唱反调</item>
   <item enabled="true">r=(PA|Pa|pa|啪|帕|拍|[Pp]){3,}|割鸡|小(丁丁|鸡|J|j)|[鸡Jj][巴吧8Bb]|微微一(硬|石更)</item>
   <item enabled="true">r=破[鞋处處]|[处處][女男]|([绿綠]茶|🍵)婊|[马玛瑪]丽苏|圣母|白莲花|玻璃心</item>
@@ -407,7 +407,7 @@
   <item enabled="true">r=^傻子才</item>
   <item enabled="true">r=^凭(什么|啥|毛线?)</item>
   <item enabled="true">t=拉踩</item>
-  <item enabled="true">t=迷你世界</item>
+  <item enabled="true">r=[迷Mm][你Nn]([世屎💩]|[Ss][Hh][Ii])界</item>
   <item enabled="true">r=[恶呃谔]{2}</item>
   <item enabled="true">r=[现先]有.*后有天</item>
   <item enabled="true">r=你家的[\?？]</item>
@@ -656,4 +656,7 @@
   <item enabled="true">r=[石失][乐了][智志]</item>
   <item enabled="true">r=智[力商]不[足竹够]</item>
   <item enabled="true">r=吹.?继续吹</item>
+  <item enabled="true">r=你([和跟]我[说讲]|告诉我).*抄</item>
+  <item enabled="true">r=抄了?(什么|[谁哪你][家个]?|啥)|哪抄了|抄了|没抄</item>
+  <item enabled="true">r=不会[还真]真?的?有.*吧</item>
 </filters>
