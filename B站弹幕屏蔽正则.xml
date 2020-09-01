@@ -80,7 +80,7 @@
   <item enabled="true">r=([小大]|[初高]中|[工攻]读)[㊫学穴雪靴]?[生僧深]</item>
   <item enabled="true">r=[一-六那哪几]年[级记极纪]|[初高中大学][一-四]</item>
   <item enabled="true">r=[从顺沿][^网线].*过?来|过来的</item>
-  <item enabled="true">r=[恰掐洽].*[饭钱]|洗.*地|水军|(花式|真能)[洗舔添]|跪[舔添]|烂钱.*[恰掐洽]</item>
+  <item enabled="true">r=[恰掐洽].*[饭钱]|洗.*地|水军|(花式|真能)[洗舔添]|跪[舔添]|烂钱.*[恰掐洽]|就[硬嗯][洗黑吹喷舔]</item>
   <item enabled="true">r=[洗舔]地[狗🐶]|还([和合搁][这着])?洗.*</item>
   <item enabled="true">r=还(能|需?要)[恰掐洽]</item>
   <item enabled="true">r=[此今]生[无不]?悔入</item>
@@ -174,8 +174,8 @@
   <item enabled="true">r=眼[睛镜]有问题</item>
   <item enabled="true">r=和.*(没办?法|不能|没[得法])比|[能配]([得地的]上)?和.*比[馬嘛吗码马玛🐎妈🐴\?？么]|和.*能比[馬嘛吗码马玛🐎妈🐴\?？么]</item>
   <item enabled="true">t=半斤八两</item>
-  <item enabled="true">r=[没不]觉得.*有(什么|多大)?用|有(什么|多大)?用[处途]?[么馬嘛吗码马玛🐎妈媽🐴\?？]</item>
-  <item enabled="true">r=没?有(个|什么|啥)?([卵吊雕屌]|[Dd][Ii][Aa]?[Oo]|迪奥|毛线?)用</item>
+  <item enabled="true">r=[没不]觉得.*有(什么|多大|何)?用|有(什么|多大|何)?用[处途]?[么馬嘛吗码马玛🐎妈媽🐴\?？]</item>
+  <item enabled="true">r=没?有(个|什么|[啥何])?([卵吊雕屌]|[Dd][Ii][Aa]?[Oo]|迪奥|毛线?)用|没([卵吊雕屌]|[Dd][Ii][Aa]?[Oo]|迪奥|毛线?)用</item>
   <item enabled="true">r=不就?(行|可以)了[么馬嘛吗码马玛🐎妈🐴\?？]</item>
   <item enabled="true">r=[你妳您宁](确定|凭什么)</item>
   <item enabled="true">t=还是喜欢</item>
@@ -265,7 +265,7 @@
   <item enabled="true">r=\-_\-\|\|</item>
   <item enabled="true">r=[0-9]{2,4}.?[0-9]{1,2}[0-9]{1,2}</item>
   <item enabled="true">r=[0-9]{2,4}的</item>
-  <item enabled="true">r=(真的?|就是?|本来就)丑|丑(死|八怪)|丑出|吃藕|有被丑到|长[相的地得].*[着捉][急鸡吉几Jj🐓🐣🐤🐥🐔]</item>
+  <item enabled="true">r=(真的?|就是?|本来就|好)丑|丑(死|八怪)|丑出|吃藕|有被丑到|长[相的地得].*[着捉][急鸡吉几Jj🐓🐣🐤🐥🐔]|丑[的地得]批[报爆暴]</item>
   <item enabled="true">r=说句?(不好|难)听.?[的点]</item>
   <item enabled="true">r=可以.*滚了|(麻溜|赶紧|我|能)滚|^[Gg][Uu][Nn]$|^滚|有多远.*滚多远</item>
   <item enabled="true">r=(硬|强行|尬|噶).*[扯黑黒恰吹洽钓]|吹啥呢</item>
@@ -599,9 +599,9 @@
   <item enabled="true">r=[Mm]oh[ie][td]o|莫[嘿黑黒][托多]</item>
   <item enabled="true">r=(听|感[觉受])不(出来?|[到了])[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
   <item enabled="true">r=不会用.*[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
-  <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?有.*[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
+  <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?([有能配]|可以|做[的地得]到).*[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
   <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii]).*(国[内外产]|[中美爱外]国)|(国[内产外]|[中美爱外]国).*([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])</item>
-  <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?([属确着]实|真[的是]?)(([能行]|[做作][得的地]到)[么馬嘛吗码马玛🐎妈媽🐴没不\?？]|做不到|不([能行]|可以|彳亍)|没[法的地得]比|比不[上了]|不好用)</item>
+  <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?([属确着]实|真[的是]?)(([能行]|[做作][得的地]到)[么馬嘛吗码马玛🐎妈媽🐴没不\?？]|做不到|没?有这个|不([能行]|可以|彳亍)|没[法的地得]比|比不[上了]|不好用)</item>
   <item enabled="true">r=^([我坚]?[决绝]对?)?不会?去?买([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?$</item>
   <item enabled="true">r=^([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?$</item>
   <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?.*[卡狗🐶]</item>
@@ -609,6 +609,8 @@
   <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?.*比.*([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?</item>
   <item enabled="true">r=((不如|我选择?)买?|不就?是)([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?</item>
   <item enabled="true">r=(干翻|不用)([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])</item>
+  <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])(还是?|就)?(算了|别扯)</item>
+  <item enabled="true">r=还是([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn][Gg][Gg][Uu][Oo]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii]).*([牛Nn🐂🐄🐮][逼比笔子缺Bb货币Pp批皮🍺])</item>
   <item enabled="true">r=骂啊|继续[骂喷]|(怎么|咋)不(继续|接着)[骂喷撕]|[骂喷撕]死[你妳您宁泥尼拟妳伱妮呢]</item>
   <item enabled="true">r=(一群|真有)([傻喷]子|睿智)</item>
   <item enabled="true">t=井底之蛙</item>
