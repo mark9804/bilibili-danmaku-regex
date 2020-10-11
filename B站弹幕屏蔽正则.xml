@@ -263,7 +263,7 @@
   <item enabled="true">r=[Cc][Nn][Mm]</item>
   <item enabled="true">t=上香</item>
   <item enabled="true">r=恶心|不要[Bb逼壁笔哔碧比币屄饼吊叼屌Xx]?[脸莲]|没(听|听说|看)过|死[得地的]好|去死|[看听]不懂|好(无聊|难看|垃圾)|烦不烦|完爆|血虐|太假了|狗血|取关|转([黑黒]|粉)|^(散了|走了)+$</item>
-  <item enabled="true">r=^取关了?$|^(再见|[拜白百]{2})$|[拜白百]{2}[了辽啦辣拉]您|[\?？么馬嘛吗码马玛🐎妈媽🐴,,。\.]再见$</item>
+  <item enabled="true">r=^取关了?$|(再见|[拜白百]{2})$|[拜白百]{2}[了辽啦辣拉]您|[\?？么馬嘛吗码马玛🐎妈媽🐴,,。\.]再见$</item>
   <item enabled="true">r=\-_\-\|\|</item>
   <item enabled="true">r=[0-9]{2,4}.?[0-9]{1,2}[0-9]{1,2}</item>
   <item enabled="true">r=[0-9]{2,4}的</item>
@@ -640,7 +640,7 @@
   <item enabled="true">t=你个头</item>
   <item enabled="true">r=[男女]人就(应?该|要)</item>
   <item enabled="true">r=没有?兴趣</item>
-  <item enabled="true">r=我们.*真[是的]{1,2}太([厉利][害嗨]|好)[了辽咯啦辣拉力🌶️]</item>
+  <item enabled="true">r=我们.*(真|[实是]在)[是的]{1,2}太([厉利][害嗨]|好)[了辽咯啦辣拉力🌶️]</item>
   <item enabled="true">r=不过([就只]|就只)?是个</item>
   <item enabled="true">r=就是?嘴[巴上]?说说</item>
   <item enabled="true">r=什么德[行性]</item>
