@@ -60,7 +60,7 @@
   <item enabled="true">r=(\d{1,2}|十|十?[一二三四五六七八九十])([\.,\/:：、，；点\-月。]|\s+)(\d{1,2}|[二三]?十|[二三]?十?[一二三四五六七八九]).{0,4}($|[日的过我别你上午夜晨])</item>
   <item enabled="true">r=\d\d(\d\d)?([\.,。，、\/\-年—*]|\s+)\d(\d)?([\.,。，、\/\-月—*]|\s+)\d</item>
   <item enabled="true">r=^(2([^3]\d|3[^3])|6([^6]\d|6[^6])|[^26]\d{2})\d{0,5}$</item>
-  <item enabled="true">r=[许許计祈还還换环]个?[愿怨原源願]|[愿怨原源願][许許计祈还還换环出]|[许許计祈还還换环出][愿怨原源願]必[还還换环]|[Xx][Uu][Yy][Uu][Aa][Nn]|我{2,}|[万玩萬][一壹阴].*[呢呐吶訥了]|中[奖!！\.。·…]|^(拉低)+$|^([我冲]|[Mm][Ee])+$|^[万萬][一壹]$|^([选是抽]我)+|([选是抽]我)$|[Ww][Aa][Nn][Yy][Ii]|万y|拉低中[奖将讲浆桨]|^[给让]?[我爷][中出][\!\?！？，,、～~\s]?$|[Zz][Hh][Oo0][Nn][Gg]|[做当].*分母|^[我爷]来试|[黑黒]幕|^(我可以|^(万一|[试看]{2})呢)$|[Ll][Aa][Dd][Ii]|我也?想中|^(这里|求中)+$|给个(机会|鸡喙)|^中.?奖$|^万一中了?呢?$|(抽奖|[做当]个?)分母|^(拉低|怎么|必须?|不|一定会?)?中$|^[中肿]起来?$|^([抽中]奖)+$</item>
+  <item enabled="true">r=[许許计祈还還换环]个?[愿怨原源願]|[愿怨原源願][许許计祈还還换环出]|[许許计祈还還换环出][愿怨原源願]必[还還换环]|[Xx][Uu][Yy][Uu][Aa][Nn]|我{2,}|[万玩萬][一壹阴].*[呢呐吶訥了]|中[奖!！\.。·…]|^(拉低)+$|^([我冲]|[Mm][Ee])+$|^[万萬][一壹]$|^([选是抽]我)+|([选是抽]我)$|[Ww][Aa][Nn][Yy][Ii]|万y|拉低中[奖将讲浆桨]|^[给让]?[我爷][中出][\!\?！？，,、～~\s]?$|[Zz][Hh][Oo0][Nn][Gg]|[做当].*分母|^[我爷]来试|[黑黒]幕|^(我可以|^(万一|[试看]{2})呢)$|[Ll][Aa][Dd][Ii]|我也?想中|^(这里|求中)+$|给个(机会|鸡喙)|^中.?奖$|^万一中了?呢?$|(抽奖|[做当]个?)分母|^(拉低|怎么|必须?|不|一定会?)?中$|^[中肿]起来?$|^([抽中]奖)+$|^中$</item>
   <item enabled="true">r=抽到.*吧|来我[岛舰船]</item>
   <item enabled="true">r=([愿保助祝佑]|希望)我|考上|保佑</item>
   <item enabled="true">r=裸考|[^说]过了$</item>
@@ -154,7 +154,7 @@
   <item enabled="true">r=[^请]屏蔽|[Pp][Ii][Nn][Gg][Bb][Ii]</item>
   <item enabled="true">r=(真[实是的]|可真.?|[属着]实)有?[笑鸮孝肖Xx][死Ss到][我Ww][了辽Ll]|[孝]死我[了辽]|有(够|点)好[笑鸮孝肖]|(就|几乎|还?不也?)是个([笑鸮孝肖]话|[弟Dd][弟Dd])|^[笑鸮孝肖]了|[笑鸮孝肖]了$</item>
   <item enabled="true">r=[\-=](\s|[.。,，])*[\-=]</item>
-  <item enabled="true">r=[没有](何|什么|[有啥]|毛线?)?(意义|意思)|(意义|意思)(何在|是(什么|啥|毛线?))</item>
+  <item enabled="true">r=[没有](何|什么|[有啥]|毛线?)?(意义|意思)|(意义|意思)(何在|是(什么|啥|毛线?))|至于吗</item>
   <item enabled="true">r=弟中?弟</item>
   <item enabled="true">r=[你妳您宁](倒是?)?告诉我|[你妳您宁](倒是?)说</item>
   <item enabled="true">r=快[来到](我|妈妈|娘|母亲|爸爸|爹|父亲)?[家碗这怀]</item>
@@ -613,7 +613,7 @@
   <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])(还是?|就)?(算了|别扯)</item>
   <item enabled="true">r=(还是|[比没])([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|苹果|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii]).*([牛Nn🐂🐄🐮][逼比笔子缺Bb货币Pp批皮🍺]|[好难]看|丑)</item>
   <item enabled="true">r=骂啊|继续[骂喷]|(怎么|咋)不(继续|接着)[骂喷撕]|[骂喷撕]死[你妳您宁泥尼拟妳伱妮呢]</item>
-  <item enabled="true">r=(一群|真有)([傻喷]子|睿智)</item>
+  <item enabled="true">r=(一群|真有)([傻喷]子|[睿Rr][智Zz])</item>
   <item enabled="true">t=井底之蛙</item>
   <item enabled="true">r=[太好](先进|神奇|厉害)[了呢啊]|(极[为其]|非常)先进</item>
   <item enabled="true">r=[还可就]真.*当回事</item>
@@ -625,9 +625,9 @@
   <item enabled="true">t=砖家</item>
   <item enabled="true">t=别跳了</item>
   <item enabled="true">r=还(有人|[在隔搁][这着]).{0,5}扯</item>
-  <item enabled="true">r=[带大]专人[上⬆️⬆↑]人</item>
+  <item enabled="true">r=人[上⬆️⬆↑]人</item>
   <item enabled="true">t=呢死不死</item>
-  <item enabled="true">r=还好意思|好意思[了吧么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
+  <item enabled="true">r=[还也]好意思|好意思[了吧么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
   <item enabled="true">t=口嗨</item>
   <item enabled="true">r=哑巴[了吧么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
   <item enabled="true">r=来聊聊|走两步</item>
