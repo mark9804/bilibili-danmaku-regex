@@ -296,7 +296,7 @@
   <item enabled="true">r=(无|没有)压力</item>
   <item enabled="true">r=想日|妹汁|打飞机</item>
   <item enabled="true">r=[举菊][报爆]</item>
-  <item enabled="true">t=弹幕礼仪</item>
+  <item enabled="true">r=弹幕礼[仪儀]</item>
   <item enabled="true">t=我炮</item>
   <item enabled="true">r=有(何|什么|啥|毛线?)?区别[么馬嘛吗码马玛🐎妈媽🐴]</item>
   <item enabled="true">r=不服$|来战$|无所畏惧$</item>
@@ -349,8 +349,7 @@
   <item enabled="true">t=芜湖</item>
   <item enabled="true">t=欣赏不来</item>
   <item enabled="true">r=[也还][能有][尬噶]?[洗舔添吹喷黑]</item>
-  <item enabled="true">r=[也不]配</item>
-  <item enabled="true">r=[也还]不如</item>
+  <item enabled="true">r=[也还不](配|不如)</item>
   <item enabled="true">t=不喜欢这个</item>
   <item enabled="true">r=多{1,2}少{1,2}沾[点`、]</item>
   <item enabled="true">r=^@</item>
@@ -405,7 +404,6 @@
   <item enabled="true">r=.*[,，\s]我来.*[,，\s]为你</item>
   <item enabled="true">r=^厚大法考$</item>
   <item enabled="true">r=^傻子才</item>
-  <item enabled="true">r=^凭(什么|啥|毛线?)</item>
   <item enabled="true">t=拉踩</item>
   <item enabled="true">r=[迷Mm][你Nn]([世屎💩]|[Ss][Hh][Ii])界</item>
   <item enabled="true">r=[恶呃谔]{2}</item>
@@ -428,7 +426,7 @@
   <item enabled="true">r=别.*[行好][不么呢馬嘛吗码马玛🐎妈媽🐴\?？]</item>
   <item enabled="true">r=[TtNn][Mm][Dd]</item>
   <item enabled="true">r=[逼破][视事]</item>
-  <item enabled="true">r=[刚杠](什么|啥|毛线?)</item>
+  <item enabled="true">r=[刚杠凭](什么|啥|毛线?)</item>
   <item enabled="true">r=[某有]些人</item>
   <item enabled="true">r=能?比[的地得]上?的?[么呢馬嘛吗码马玛🐎妈媽🐴\?？]</item>
   <item enabled="true">r=[Cc][Aa]?[Oo]?[Nn].*[Mm]</item>
