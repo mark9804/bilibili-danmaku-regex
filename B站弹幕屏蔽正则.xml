@@ -68,8 +68,10 @@
   <item enabled="true">r=就差.*了</item>
   <item enabled="true">r=^诸君</item>
   <item enabled="true">r=出[了货]|[^A-Za-z ][S]{1,2}R[^A-Za-z ]|^[S]{1,2}R$</item>
-  <item enabled="true">r=我?[出陈沉歪中][货船奖]?[了啦拉辣🌶️]|[已以己]经?[出陈沉]|[没未]有?出|歪出|[已以]经?歪|前来([抱爆报][怨愿]|骂[人娘]|自闭)</item>
+  <item enabled="true">r=我?[出陈沉歪中][货船奖]?[了啦拉辣🌶️]|[已以己]经?[出陈沉]|[没未]有?出|歪出|[已以]经?歪|前来([抱爆报][怨愿]|骂[人娘街]|自闭|砸场)</item>
+  <item enabled="true">r=[0-6一二三四五六]命.*前来</item>
   <item enabled="true">r=[689六八九百千万Ww]块.*(听个响|打水漂|水花)</item>
+  <item enabled="true">r=单.出奇迹</item>
   <item enabled="true">r=(已经|早就?|我).?有</item>
   <item enabled="true">r=^讲究</item>
   <item enabled="true">t=嫩模</item>
