@@ -187,7 +187,7 @@
 和.*(没办?法|不能|没[得法])比|[能配]([得地的]上)?和.*比[馬嘛吗码马玛🐎妈🐴\?？么]|和.*能比[馬嘛吗码马玛🐎妈🐴\?？么]
 半斤八两
 [没不]觉得.*有(什么|多大|何)?用|有(什么|多大|何)?用[处途]?[么馬嘛吗码马玛🐎妈媽🐴\?？]
-没?有(个|什么|[啥何])?([卵吊雕屌]|[Dd][Ii][Aa]?[Oo]|迪奥|毛线?)用|没([卵吊雕屌]|[Dd][Ii][Aa]?[Oo]|迪奥|毛线?)用
+没?有(个|什么|[啥何])?([卵吊雕屌]|[Dd][Ii][Aa]?[Oo]|迪奥|毛线?|锤子|🔨)用|没([卵吊雕屌]|[Dd][Ii][Aa]?[Oo]|迪奥|毛线?|锤子|🔨)用
 不就?(行|可以)了[么馬嘛吗码马玛🐎妈🐴\?？]
 [你妳您宁](确定|凭什么)
 还是喜欢
@@ -622,6 +622,9 @@ ili[DdBb]ili[DdBb]|li[Bb]ili[Bb]i
 ([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?.*比.*([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?
 ((不如|我选择?)买?|不就?是|干翻|不用)([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?
 (还是|[比没])([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii]).*([六流牛Nn🐂🐄🐮][逼比笔子缺Bb货币Pp匹劈批皮🍺]|[好难]看|丑)
+[这一]辈子都?不会?去?买
+狗都不
+.都不[用玩]$
 骂啊|继续[骂喷]|(怎么|咋)不(继续|接着)[骂喷撕]|[骂喷撕]死[你妳您宁泥尼拟妳伱妮呢]
 (一群|真有)([傻喷]子|[睿Rr][智Zz])
 井底之蛙
@@ -675,3 +678,7 @@ ili[DdBb]ili[DdBb]|li[Bb]ili[Bb]i
 (丝滑|流畅|不卡|坚挺)$
 ^(永[久远])?(反弹|免疫)$
 再.*能[比有].*[么馬嘛吗码马玛🐎妈媽🐴没不\?？]
+(怎么|为(什么|啥|毛线?))就
+不就是?(一?个|一).?破
+这叫.*[\?？]$
+也就.*水平
