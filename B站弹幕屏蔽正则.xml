@@ -58,6 +58,7 @@
   <item enabled="true">r=^.?([Pp][Rr]|[Ll][Aa]|[Mm]{2}[Pp])+$</item>
   <item enabled="true">r=见(丈母娘|岳父|老?(丈人|[公婆]))</item>
   <item enabled="true">r=^我选择?[^死亡]</item>
+  <item enabled="true">r=[好对].*我(买|选择?)</item>
   <item enabled="true">r=(\d{1,2}|十|十?[一二三四五六七八九十])([\.,\/:：、，；点\-月。]|\s+)(\d{1,2}|[二三]?十|[二三]?十?[一二三四五六七八九]).{0,4}($|[日的过我别你上午夜晨])</item>
   <item enabled="true">r=\d\d(\d\d)?([\.,。，、\/\-年—*]|\s+)\d(\d)?([\.,。，、\/\-月—*]|\s+)\d</item>
   <item enabled="true">r=^(2([^3]\d|3[^3])|6([^6]\d|6[^6])|[^26]\d{2})\d{0,5}$</item>
@@ -162,7 +163,7 @@
   <item enabled="true">r=[没有](何|什么|[有啥]|毛线?)?(意义|意思)|(意义|意思)(何在|是(什么|啥|毛线?))|至于吗</item>
   <item enabled="true">r=弟中?弟</item>
   <item enabled="true">r=[你妳您宁](倒是?)?告诉我|[你妳您宁](倒是?)说</item>
-  <item enabled="true">r=快[来到](我|妈妈|娘|母亲|爸爸|爹|父亲)?[家碗这怀]</item>
+  <item enabled="true">r=[来到](我|妈妈|娘|母亲|爸爸|爹|父亲)?[家碗这怀][里来]</item>
   <item enabled="true">r=(我|妈妈|娘|母亲|爸爸|爹|父亲)抱抱</item>
   <item enabled="true">r=[垃辣菜腊乐勒类Ll🌶️][圾鸡色Jj几吉🐓🐣🐤🐥🐔]|^渣渣$|渣渣[^辉]|圾皇|之胱|妈卖批|[Mm]+[Pp]|[Ll][Aa][Jj][Ii]</item>
   <item enabled="true">r=冒.?泡</item>
@@ -668,4 +669,5 @@
   <item enabled="true">r=这叫.*[\?？]$</item>
   <item enabled="true">r=也就.*水平</item>
   <item enabled="true">r=[你妳您宁我他她它泥尼拟妳伱妮呢]懂[完光没]了</item>
+  <item enabled="true">t=懂哥</item>
 </filters>
