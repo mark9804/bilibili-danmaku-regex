@@ -3,7 +3,7 @@ from re import search
 from re import sub
 
 
-def generatexmlbyline(text):
+def generateXmlByLine(text):
     with open(generateFile, 'a') as file_xml:
         if search(r'\\|\^|\||\$|\*|\+|\?|\{|\}|\.|\(|\)|\[|\]|\\s', text) is not None:
             if search(r'\(\?\<?\!', text) is None:
@@ -22,7 +22,7 @@ with open(generateFile, 'w') as file_xml:
 
 with open(textFile, 'r') as file_plaintext:
     for line in file_plaintext:
-        generatexmlbyline(line)
+        generateXmlByLine(line)
     file_plaintext.close()
 
 with open(generateFile, 'a') as file_xml:
