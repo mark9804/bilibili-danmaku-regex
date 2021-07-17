@@ -4,7 +4,7 @@
 ## 怎么用
 ### 1. 使用pakku黑名单（推荐）
 
-1. 全选并复制[Raw文件](https://raw.githubusercontent.com/Mark9804/bilibili-danmaku-regex/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99.txt)
+1. 全选并复制[Raw文件](https://raw.githubusercontent.com/Mark9804/bilibili-danmaku-regex/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99.txt)（如果网络环境特殊打不开这个链接，请自行复制[txt文本](https://github.com/Mark9804/bilibili-danmaku-regex/blob/master/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%B1%8F%E8%94%BD%E6%AD%A3%E5%88%99.txt)中的内容）
 2. 粘贴到到Pakku黑名单中（黑名单功能需要开启全部设置方可见）![示例](https://github.com/Mark9804/bilibili-danmaku-regex/raw/master/images/pakku-blacklist.png)
 3. 保存（已打开的视频需要刷新之后才能正确应用黑名单）
 
