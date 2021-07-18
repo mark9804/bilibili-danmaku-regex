@@ -36,7 +36,7 @@ def testRegex(string):
 	result = []
 	notInXmlList = []
 	for key, value in dict.items(matchCompiled):
-		if regex.match(value, string) is not None:
+		if regex.search(value, string) is not None:
 			stringMatched = True
 			tempResult = '命中第' + str(key) + '条正则：' + str(matchPlainText[key])
 			if regex.search(r'\(\?\<?\!', str(matchPlainText[key])) is not None:
