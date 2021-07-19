@@ -2,7 +2,7 @@
   <item enabled="true">r=.{50}</item>
   <item enabled="true">r=^[\.·。,，\/\?\？⁇❓!！~～@\^\、\+＝=\-—_ 【】‘’\＃￥\$〓§\(\)\{\}（）\*卐卍♾：:；、\"“”¿●冖…]+$</item>
   <item enabled="true">r=[\.·。,，\/\?\？⁇❓!！~～@\^\、\+＝=\-—_ 【】‘’\＃￥\$〓§\(\)\{\}（）\*卐卍♾：:；、\"“”¿●冖…]{3,}</item>
-  <item enabled="true">r=[👴👿🌶️💉💧💦🔥✿💩🎣🥺]</item>
+  <item enabled="true">r=[👴👿🌶️💉💧💦🔥✿💩🎣🥺😅]</item>
   <item enabled="true">r=[屮艸芔茻歰皕弔屌囬唵麽抳雞骯襗壩闆辦幫寶斃錶彆蔔纔蠶攙讒饞懺襯稱齣處辭聰擔膽鄧糴遞點鼕噸墮礭墳糞鞏颳關櫃夥繭揀鹼薑漿槳奭癤墾懇虧睏纍爛廬蘆爐麽驢黴衊畝惱闢蘋籤韆竊濕實鬆臸檯颱壇罎謄體糶圖嚮釁鬚鏇壓鑰爺癰踴禦遌醖贜鑿竈戰緻蟲齒芻斷龜歸屬壽藝訁飠昜糹臤釒巠咼睪癡獃騃脣閧鬩蔴牠劄紥爾髒隻罎纍澐黨蘿蔔彆闢鬱鹹鞦衊灕簾鬍舉變繼發鍼轐䰈䳲廍䠡]</item>
   <item enabled="true">r=^[^\u4E00-\u9FA5]$</item>
   <item enabled="true">r=[—～~\-]{3,}</item>
@@ -75,6 +75,7 @@
   <item enabled="true">r=[0-6一二三四五六]命.*前来</item>
   <item enabled="true">r=([^得要]|^)[0-6一二三四五六]命</item>
   <item enabled="true">r=[689六八九百千万Ww]块.*(听个响|打水漂|水花)</item>
+  <item enabled="true">r=[零0没]有?氪|(.*[级抽]|[氪冲充]了?.*[8块单].{0,5})(.{1,3}个?([五六]星|[Ss][Ss][Rr])|.[黄金彩])</item>
   <item enabled="true">r=单.出奇迹</item>
   <item enabled="true">r=(已经|早就?|我).?有</item>
   <item enabled="true">r=^讲究</item>
@@ -196,7 +197,7 @@
   <item enabled="true">t=拉倒</item>
   <item enabled="true">r=[阴Yy][阳Yy][怪Gg][气Qq]</item>
   <item enabled="true">r=还有脸|说[得的]出口</item>
-  <item enabled="true">r=带节奏|节奏[大带]师|节奏[党狗🐶]</item>
+  <item enabled="true">r=带(节奏|热度)|节奏[大带]师|节奏[党狗🐶]</item>
   <item enabled="true">r=^(不好意思|不是我说|恕我直言)|我(为什么|[为干][啥嘛]|咋|怎么)不|^我?还不如|纯路人|^抱歉|^对不起</item>
   <item enabled="true">r=我(的|今[天日])?(生|破[蛋壳]|[诞誕]生)日|今[天日]是?我的?(生|破[蛋壳]|[诞誕]生)日</item>
   <item enabled="true">r=鄙视|[^a-zA-Z][Bb][Ii][Ss][Ss][^a-zA-Z]</item>
@@ -449,7 +450,7 @@
   <item enabled="true">r=跟[你妳您宁]们?有关系[么呢馬嘛吗码马玛🐎妈媽🐴\?？]</item>
   <item enabled="true">r=[你妳您宁]女?[馬吗码马玛🐎妈媽🐴]</item>
   <item enabled="true">r=都.*了还</item>
-  <item enabled="true">r=^[\u4E00-\u9FA5]+[\?？][\u4E00-\u9FA5]+[么呢馬嘛吗码马玛🐎妈媽🐴\?？]</item>
+  <item enabled="true">r=^[\u4E00-\u9FA5]+[\?？][\u4E00-\u9FA5]+[么呢馬嘛吗码马玛🐎妈媽🐴\?？]$</item>
   <item enabled="true">r=[叫认].{0,5}爸爸</item>
   <item enabled="true">r=[再在有](怎么|多)?(厉害|[六流牛Nn🐂🐄🐮][逼比笔子缺Bb货币Pp匹劈批皮🍺])(不是?)?也</item>
   <item enabled="true">r=还搁[着这]</item>
@@ -625,7 +626,7 @@
   <item enabled="true">t=砖家</item>
   <item enabled="true">t=别跳了</item>
   <item enabled="true">r=还(有人|[在隔搁][这着]).{0,5}扯</item>
-  <item enabled="true">r=[人壬][上⬆️⬆↑][人壬]</item>
+  <item enabled="true">r=[人壬][上⬆️⬆↑][人壬]|带专</item>
   <item enabled="true">t=呢死不死</item>
   <item enabled="true">r=[还也]好意思|好意思[了吧么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
   <item enabled="true">t=口嗨</item>
@@ -674,4 +675,7 @@
   <item enabled="true">t=懂哥</item>
   <item enabled="true">r=[差扎][不8８]多[的地得][了勒嘞辽咯啦辣拉力🌶️]</item>
   <item enabled="true">r=(4000|36000)\+</item>
+  <item enabled="true">r=[我爷].*[瞧看]不[起上]</item>
+  <item enabled="true">t=叫花子嫌饭馊</item>
+  <item enabled="true">t=典中典</item>
 </filters>
