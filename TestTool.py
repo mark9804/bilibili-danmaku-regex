@@ -4,10 +4,6 @@ import regex
 import os
 
 regexPlainText = 'B站弹幕屏蔽正则.txt'
-timeModified = os.path.getmtime(regexPlainText)
-
-matchCompiled = {}
-matchPlainText = {}
 
 def loadfile():
 	global matchCompiled
@@ -44,6 +40,7 @@ def testRegex(string):
 			else:
 				tempResult += ''
 			result.append(tempResult)
+			matchedRules = len(result)
 		else:
 			pass
 	if len(notInXmlList) != 0:
@@ -51,11 +48,18 @@ def testRegex(string):
 			result.insert(len(tempResult), str('第' + str(i) + '条正则不在XML文件中'))
 	if stringMatched == False:
 		result = ['该弹幕没有被正则捕获']
-	return result
+		matchedRules = 0
+	return result, matchedRules
 
+
+timeModified = os.path.getmtime(regexPlainText)
+
+matchCompiled = {}
+matchPlainText = {}
+
+loadfile()
 while True:
-	loadfile()
-	testResult = testRegex(input('输入需要测试的弹幕：'))
+	testResult, matched = testRegex(str(input('输入需要测试的弹幕：')))
 	for i in testResult:
 		print(i)
-	print('')
+	print('共命中' + str(matched) + '条正则\n')
