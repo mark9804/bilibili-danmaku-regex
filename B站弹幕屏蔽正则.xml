@@ -85,7 +85,7 @@
   <item enabled="true">r=白(嫖|票|飘|漂|[Pp][Ii][Aa][Oo])</item>
   <item enabled="true">r=[报包抱][道到倒导導]|^[路经飘]过|[路经飘]过$|冒个?泡|考古$</item>
   <item enabled="true">r=([小大]|[初高]中|[工攻]读)[㊫学穴雪靴]?[生僧深]</item>
-  <item enabled="true">r=[一-六那哪几]年[级记极纪]|[初高中大学][一-四]</item>
+  <item enabled="true">r=[一二三四五六那哪几]年[级记极纪]|[初高中大学][一二三四]</item>
   <item enabled="true">r=[从顺沿][^网线].*过?来|过来的</item>
   <item enabled="true">r=[恰掐洽].*[饭钱]|洗.*地|水军|(花式|真能)[洗舔添]|跪[舔添]|烂钱.*[恰掐洽]|就[硬嗯][洗黑吹喷舔]</item>
   <item enabled="true">r=[洗舔]地[狗🐶]|还([和合搁][这着])?洗.*</item>
@@ -104,7 +104,7 @@
   <item enabled="true">r=烦不烦|有完?没完</item>
   <item enabled="true">r=.{2,}我?(喜欢|爱|想|宣)[你妳]</item>
   <item enabled="true">r=(只有|就|没有?)?[我人](觉[的地得]|[用哪拿]来|.*当[作做]|一直)</item>
-  <item enabled="true">r=[Pp批匹][Xx小][Jj将酱]|[ZzMmDd米舟粥]([WwXx卫][BbZz兵]|[黑黒])|[你妳贵饭粉肖][站国圈]|孝子</item>
+  <item enabled="true">r=[Pp批匹][Xx小][Jj将酱]|[ZzMmDd米舟粥]([WwXx卫][BbZz兵]|[黑黒])|[你妳贵饭粉肖][站国圈]|[孝嚣]子</item>
   <item enabled="true">r=[猎牧]([Mm][Aa]?|[馬嘛吗码马玛🐎妈媽🐴])人</item>
   <item enabled="true">r=.总.*好|[恭欢]迎.总</item>
   <item enabled="true">r=([來来莱勒嘞雷累][了辽咯啦辣拉力热惹🌶️].?){2,}|[Ll][AaEe][Ii][Ll了]|^[我又]?[來来莱勒嘞雷累][了辽咯啦辣拉力热惹🌶️]</item>
@@ -298,7 +298,7 @@
   <item enabled="true">t=寨杂</item>
   <item enabled="true">t=灵异美学</item>
   <item enabled="true">r=(繁|简|正|残|簡|繁|殘)(體|体)(字|中)</item>
-  <item enabled="true">r=(的|你|)([笑吓嚇][尿鸟鳥瞎屎死])</item>
+  <item enabled="true">r=([笑吓嚇][尿鸟鳥瞎屎死])[^我]</item>
   <item enabled="true">r=[等加算带代跟]上?我|(还有|等等)我</item>
   <item enabled="true">r=(无|没有)压力</item>
   <item enabled="true">r=想日|妹汁|打飞机</item>
@@ -646,14 +646,15 @@
   <item enabled="true">r=穷.*这玩意.*(没|有(个|什么|啥)?([卵吊雕屌]|[Dd][Ii][Aa]?[Oo]|迪奥|毛线?)).*用</item>
   <item enabled="true">r=二[刺次][螈猿]</item>
   <item enabled="true">r=([狗🐶]|[Gg]([Oo][Uu])?)(东西|玩意)</item>
-  <item enabled="true">r=(原神|[崩蹦][23二三崩蹦坏]|[Cc][SsFf]|迷你|我的|[Mm][CcNnIi]|[王亡]者|农药|明日|方舟|千年|战双|瓜游|指令|碧蓝|舰[队娘CcRr]|只[狼猴🐒]|死亡|代号|[Mm米][OoHh哈忽][NnWwYy游悠]|猛汉王|怪物?猎|黑(魂|神话)|悟空|尼尔|[Nn][Ii][Ee][Rr]|吃鸡|和平|刺激).*([抄偷像]|借鉴|复制|领先|碰瓷)|([抄偷像]|借鉴|复制|领先|碰瓷).*(原神|[崩蹦][23二三崩蹦坏]|[Cc][SsFf]|迷你|我的|[Mm][CcNnIi]|[王亡]者|农药|明日|方舟|千年|战双|瓜游|指令|碧蓝|舰[队娘CcRr]|只[狼猴🐒]|死亡|代号|[Mm米][OoHh哈忽][NnWwYy游悠]|猛汉王|怪物?猎|黑(魂|神话)|悟空|尼尔|[Nn][Ii][Ee][Rr]|吃鸡|和平|刺激)</item>
+  <item enabled="true">r=(原神|幻塔|[崩蹦][23二三崩蹦坏]|[Cc][SsFf]|迷你|我的|[Mm][CcNnIi]|[王亡]者|农药|明日|方舟|千年|战双|瓜游|指令|碧蓝|舰[队娘CcRr]|只[狼猴🐒]|死亡|代号|[Mm米][OoHh哈忽][NnWwYy游悠]|猛汉王|怪物?猎|黑(魂|神话)|悟空|尼尔|[Nn][Ii][Ee][Rr]|吃鸡|和平|刺激).*([抄偷像]|借鉴|复制|领先|碰瓷)|([抄偷像]|借鉴|复制|领先|碰瓷).*(原神|幻塔|[崩蹦][23二三崩蹦坏]|[Cc][SsFf]|迷你|我的|[Mm][CcNnIi]|[王亡]者|农药|明日|方舟|千年|战双|瓜游|指令|碧蓝|舰[队娘CcRr]|只[狼猴🐒]|死亡|代号|[Mm米][OoHh哈忽][NnWwYy游悠]|猛汉王|怪物?猎|黑(魂|神话)|悟空|尼尔|[Nn][Ii][Ee][Rr]|吃鸡|和平|刺激)</item>
+  <item enabled="true">r=(卧槽|快?看).?[原螈猿🐒农舟粥幻].{0,2}$</item>
   <item enabled="true">r=还真就?(把自[己个]当|当自[己个])|[整搞][的地得](你|自[己个])就?[是跟和].*(一样|[似是]的)</item>
   <item enabled="true">r=[你妳您宁泥尼拟妳伱妮呢]来[辣🌶️]</item>
   <item enabled="true">r=人傻.*钱多|智商([检监]测|[鉴检]定)</item>
   <item enabled="true">r=(梦幻|豪华)单[热铜]?管|单[热铜]?管压\s?[Ii]9</item>
   <item enabled="true">r=(然而?|但是?)并(没有?|无)?(个|什么|啥)?([卵吊雕屌]|[Dd][Ii][Aa]?[Oo]|迪奥|毛线?)</item>
   <item enabled="true">r=[搞说吹][得地的][和跟].*(一样|似的)</item>
-  <item enabled="true">r=要.*[做干搞](什么|[啥屁吊屌雕馬嘛吗码马玛🐎妈🐴]|毛线?)</item>
+  <item enabled="true">r=要.*[做干搞](嘛|什么|[啥屁吊屌雕馬嘛吗码马玛🐎妈🐴]|毛线?)</item>
   <item enabled="true">t=怕不是</item>
   <item enabled="true">r=[石失][乐了][智志]</item>
   <item enabled="true">r=智[力商]不[足竹够]</item>
@@ -661,7 +662,7 @@
   <item enabled="true">r=你([和跟]我[说讲]|告诉我).*抄</item>
   <item enabled="true">r=抄了?(什么|[谁哪你][家个]?|啥)|哪抄了|抄了|没抄</item>
   <item enabled="true">r=不会[还真]真?的?有.*吧</item>
-  <item enabled="true">t=晦气</item>
+  <item enabled="true">r=晦气|膈应</item>
   <item enabled="true">r=(丝滑|流畅|不卡|坚挺)$</item>
   <item enabled="true">r=^(永[久远])?(反弹|免疫)$</item>
   <item enabled="true">r=再.*能[比有].*[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
@@ -669,6 +670,8 @@
   <item enabled="true">r=不就是?(一?个|一).?破</item>
   <item enabled="true">r=这叫.*[\?？]$</item>
   <item enabled="true">r=也就.*水平</item>
-  <item enabled="true">r=[你妳您宁我他她它泥尼拟妳伱妮呢]懂[完光没]了</item>
+  <item enabled="true">r=[你妳您宁我他她它泥尼拟妳伱妮呢]懂[完光没]了|又懂[了辽咯啦辣拉力🌶️]</item>
   <item enabled="true">t=懂哥</item>
+  <item enabled="true">r=[差扎][不8８]多[的地得][了勒嘞辽咯啦辣拉力🌶️]</item>
+  <item enabled="true">r=(4000|36000)\+</item>
 </filters>
