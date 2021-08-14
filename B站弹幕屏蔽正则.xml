@@ -10,6 +10,8 @@
   <item enabled="true">r=[8８][＝=]+D</item>
   <item enabled="true">r=^[\/\\]</item>
   <item enabled="true">t=‘’</item>
+  <item enabled="true">r=[a-zA-Z]{12,}</item>
+  <item enabled="true">r=[AaSsDdFfGgHhJjKkLl]{4,}|[QWRTYPSDFGHJKLZXCVBNMqwrtypsdfghjklzxcvbnm]{5,}</item>
   <item enabled="true">r=弹\s*[屏幕][^护]*$</item>
   <item enabled="true">t=倍速</item>
   <item enabled="true">r=(^|是)..[红橙黄绿綠青蓝紫黑黒白灰].{0,2}$</item>
@@ -74,6 +76,7 @@
   <item enabled="true">r=就差.*了</item>
   <item enabled="true">r=^诸君</item>
   <item enabled="true">r=出[了货]|[^A-Za-z ][S]{1,2}R[^A-Za-z ]|^[S]{1,2}R$</item>
+  <item enabled="true">r=单抽|抽[到中出]|一发(入魂|毕业)|歪[出到]</item>
   <item enabled="true">r=我?[出陈沉歪中满][货船奖潜命]?[了啦拉辣🌶️]|[已以己乙]经?[出陈沉满]|[没未]有?[出歪]|[Ww][Aa][Ii][Ll]|歪[出到了辽咯啦辣拉力热惹🌶️]|[已以不]经?歪|[来來]([抱爆报埋][怨愿冤]|骂[人娘街]|自闭|砸场|[寻抱饱报保复]仇|感[谢激]|哭诉)</item>
   <item enabled="true">r=[0-6一二三四五六]命.*前来</item>
   <item enabled="true">r=([^得要]|^)[0-6一二三四五六]命</item>
@@ -108,6 +111,7 @@
   <item enabled="true">r=烦不烦|有完?没完</item>
   <item enabled="true">r=.{2,}我?(喜欢|爱|想|宣)[你妳]</item>
   <item enabled="true">r=(只有|就|没有?)?[我人](觉[的地得]|[用哪拿]来|.*当[作做]|一直)</item>
+  <item enabled="true">r=(就|只有)我一个.*([Mm][Aa]?|[馬嘛吗码马玛🐎妈媽🐴])|我就不喜欢</item>
   <item enabled="true">r=[Pp批匹][Xx小][Jj将酱]|[ZzMmDd米舟粥]([WwXx卫][BbZz兵]|[黑黒])|[你妳贵饭粉肖][站国圈]|[孝嚣]子</item>
   <item enabled="true">r=[猎牧]([Mm][Aa]?|[馬嘛吗码马玛🐎妈媽🐴])人</item>
   <item enabled="true">r=.总.*好|[恭欢]迎.总</item>
@@ -197,11 +201,13 @@
   <item enabled="true">r=[国蝈吊屌][男腩蝻癌子]</item>
   <item enabled="true">r=能当[做坐作]?饭吃</item>
   <item enabled="true">r=吃[你妳您宁]家(大?米|粮食?|东西|的|什么|啥子?)[了辽咯啦辣拉力🌶️]</item>
+  <item enabled="true">r=别.*(搞笑|[洗吹黑黒舔添喷])了|(无脑|反串|跟风)[黑黒喷]|为了?[黑黒喷]而[黑黒喷]|(故意|乱|瞎([鸡几吉Jj🐓🐣🐤🐥🐔][巴八吧把BbRr儿二耳尔👂])?)[黑黒喷]|不吹不[黑黒]|[喷噴]子</item>
   <item enabled="true">t=拉倒</item>
   <item enabled="true">r=[阴Yy][阳Yy][怪Gg][气Qq]</item>
   <item enabled="true">r=还有脸|说[得的]出口</item>
   <item enabled="true">r=带(节奏|热度)|节奏[大带]师|节奏[党狗🐶]</item>
   <item enabled="true">r=^(不好意思|不是我说|恕我直言)|我(为什么|[为干][啥嘛]|咋|怎么)不|^我?还不如|纯路人|^抱歉|^对不起</item>
+  <item enabled="true">r=引.?战|嘴臭|双标|阴阳人|[老大带]阴阳[师人]|阴阳[大带]师|[Yy][Yy][Rr]</item>
   <item enabled="true">r=我(的|今[天日])?(生|破[蛋壳]|[诞誕]生)日|今[天日]是?我的?(生|破[蛋壳]|[诞誕]生)日</item>
   <item enabled="true">r=鄙视|[^a-zA-Z][Bb][Ii][Ss][Ss][^a-zA-Z]</item>
   <item enabled="true">r=自以为是|不会真|真就?(以为|认为|觉得|哪里?都)|真就.*[呗馬嘛吗码马玛🐎妈媽🐴\?？么]</item>
@@ -249,6 +255,7 @@
   <item enabled="true">r=[黑黒捧踩贬]一[黑黒捧踩贬]一</item>
   <item enabled="true">r=[a-fA-F0-9]{4,8}</item>
   <item enabled="true">t=请求出战</item>
+  <item enabled="true">r=正义的伙伴[？\?]?$</item>
   <item enabled="true">r=不[感敢]兴趣</item>
   <item enabled="true">r=^(口我|哦)$|(口我|哦)[》、\,，\.。\>？\?¿\s]|(所以|然后)呢？?$|看不[起上].*[\?？]</item>
   <item enabled="true">r=蹭.*热度</item>
@@ -284,6 +291,7 @@
   <item enabled="true">r=[神还谁睡]([Tt][Mm]|[特他踏][吗馬嘛吗码马玛🐎妈媽🐴么])</item>
   <item enabled="true">r=^[砸摔]出?个|[^平地耐防怕]摔[！!]?$</item>
   <item enabled="true">r=早.*了</item>
+  <item enabled="true">r=[^A-Za-z ][Ll][Oo][Ss][Ee][Rr]|^[Ll][Oo][Ss][Ee][Rr]</item>
   <item enabled="true">r=[刷找].*存在感</item>
   <item enabled="true">r=住在B站|站里?有房</item>
   <item enabled="true">r=无脑[刷喷黑黒]|(到处|互)喷|继续[撕喷]</item>
@@ -651,6 +659,7 @@
   <item enabled="true">r=二[刺次][螈猿]</item>
   <item enabled="true">r=([狗🐶]|[Gg]([Oo][Uu])?)(东西|玩意)</item>
   <item enabled="true">r=(原神|幻塔|[崩蹦][23二三崩蹦坏]|[Cc][SsFf]|迷你|我的|[Mm][CcNnIi]|[王亡]者|农药|明日|方舟|千年|战双|瓜游|指令|碧蓝|舰[队娘CcRr]|只[狼猴🐒]|死亡|代号|[Mm米][OoHh哈忽][NnWwYy游悠]|猛汉王|怪物?猎|黑(魂|神话)|悟空|尼尔|[Nn][Ii][Ee][Rr]|吃鸡|和平|刺激).*([抄偷像]|借鉴|复制|领先|碰瓷)|([抄偷像]|借鉴|复制|领先|碰瓷).*(原神|幻塔|[崩蹦][23二三崩蹦坏]|[Cc][SsFf]|迷你|我的|[Mm][CcNnIi]|[王亡]者|农药|明日|方舟|千年|战双|瓜游|指令|碧蓝|舰[队娘CcRr]|只[狼猴🐒]|死亡|代号|[Mm米][OoHh哈忽][NnWwYy游悠]|猛汉王|怪物?猎|黑(魂|神话)|悟空|尼尔|[Nn][Ii][Ee][Rr]|吃鸡|和平|刺激)</item>
+  <item enabled="true">r=[粥瓜屑你]游|[花某你][粥舟]|[乳辱][粥舟]|粥心国|国产.*之光|([半壁江山圣经咏唱光明黑暗降临]\s?){4}|麻花[疼腾藤]|卢本萎|[Tt腾疼][Xx讯]狗|([Yy丫鹰][Jj丁角]|[Yy姚][Mm蒙]|翀|[雨羽]中|[Hh海埃][Mm猫及].*)[Ff飞]([Mm][Aa]?|[馬嘛吗码马玛🐎媽妈🐴])|药丸|💊|只[猴🐒]|[原螈猿🐒农舟粥幻][Pp批匹]</item>
   <item enabled="true">r=(卧槽|快?看).?[原螈猿🐒猴农舟粥幻].{0,2}$</item>
   <item enabled="true">r=还真就?(把自[己个]当|当自[己个])|[整搞][的地得](你|自[己个])就?[是跟和].*(一样|[似是]的)</item>
   <item enabled="true">r=[你妳您宁泥尼拟妳伱妮呢]来[辣🌶️]</item>
