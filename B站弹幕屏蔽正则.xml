@@ -11,20 +11,20 @@
   <item enabled="true">r=^[\/\\]</item>
   <item enabled="true">t=‘’</item>
   <item enabled="true">r=[a-zA-Z]{12,}</item>
-  <item enabled="true">r=[AaSsDdFfGgHhJjKkLl]{4,}|[QWRTYPSDFGHJKLZXCVBNMqwrtypsdfghjklzxcvbnm]{5,}</item>
+  <item enabled="true">r=[SsDdFfGgHhJjKkLl]{4,}|[QWRTYPSDFGHJKLZXCVBNMqwrtypsdfghjklzxcvbnm]{5,}</item>
   <item enabled="true">r=弹\s*[屏幕][^护]*$</item>
   <item enabled="true">t=倍速</item>
   <item enabled="true">r=(^|是)..[红橙黄绿綠青蓝紫黑黒白灰].{0,2}$</item>
   <item enabled="true">r=^[第前钱]([0-9零一二两三四五六七八九十百千万萬亿①②③④⑤⑥⑦⑧⑨⑩几].{0,6})?$|([第前]|打开|关[上闭])[0-9零一二两三四五六七八九十百千万萬亿①②③④⑤⑥⑦⑧⑨⑩].{0,6}的?大门</item>
   <item enabled="true">r=[0-9零一二两三四五六七八九十百千Kk万Ww萬亿①②③④⑤⑥⑦⑧⑨⑩]个人了</item>
   <item enabled="true">r=^.{1,6}([天时点分钟秒]|小时)(之?[前钱内Qq]|[\!！\,，\.。\s])</item>
-  <item enabled="true">r=^我?[好超真][前快早][排面]?[！\!～~\?？]?$|^[好最超贼]早|[好最超贼]早$|(打架|大家)[早澡]|^(抢到?)?[前沙][排发]|[Dd][Ii][Yy][Ii]|第[0-9一二三四五六七八九]|[QqTt][Ii][Aa][Nn][Pp]|^靠前|^发沙$</item>
+  <item enabled="true">r=^我?[好超真][前快早][排面]?[！\!～~\?？]?$|^[好最超贼]早|[好最超贼]早$|(打架|大家)[早澡]|^(抢到?)?[前沙][排发]|[Dd][Ii][Yy][Ii]|^第[0-9一二三四五六七八九]|[QqTt][Ii][Aa][Nn][Pp]|^靠前|^发沙$</item>
   <item enabled="true">r=^趁[热熱]|^[热熱][的着者]|^(还是?([热熱][乎会热熱烫]?|岩浆)){1,}|^[热熱冷][热熱乎呼会活火][的着]?|烫[手嘴]$|^好?[烫热]{1,}|^还?是?新鲜|[Tt][Aa][Nn][Gg][SsZzJj]|[热熱]的$|[Rr][Ee][Hh][Uu]|热热(还?能|[还能])|热([乎呼]|[HhFf][Uu])|(这么|真)新鲜|^[好超][前快][排面]?的</item>
   <item enabled="true">r=^(.){0,3}[半一二两俩三四五六七八九十0-9几\.]{1,5}[百千万萬KkWw\.]?个?[半一二两俩三四五六七八九十0-9几]{0,5}(m(in)?|h(our)?|分钟?|小?时|秒|天|月|年|点).*(还(能|可以?)|勉强)[吃食]</item>
   <item enabled="true">r=我出息了$|^我出息了</item>
   <item enabled="true">r=^刚[刚才][ !！?？～~ …。，\.\,\-、]*$</item>
   <item enabled="true">r=[0-9零一二三四五六七八九几]{2,4}[\.年][\s]{0,}[0-9零一二三四五六七八九几]{1,2}[\.月]|[0-9零一二三四五六七八九几]{2,4}[年]的</item>
-  <item enabled="true">r=^(.){0,3}[半一二两俩三四五六七八九十0-9几\.]{1,5}[百千万萬KkWw\.]?个?[半一二两俩三四五六七八九十0-9几]{0,5}(m(in)?|h(our)?|分钟?|小?时|秒|天|月|年|点){1,3}(前)?(投[递稿])?(发布)?(看完)?[？！\?!～~。\.、(……)]*(.){0,4}$</item>
+  <item enabled="true">r=^[半一二两俩三四五六七八九十0-9几\.]{1,5}[百千万萬KkWw\.]?个?[半一二两俩三四五六七八九十0-9几]{0,5}(m(in)?|h(our)?|分钟?|小?时|秒|天|月|年|点){1,3}(前)?(投[递稿])?(发布)?(看完)?[？！\?!～~。\.、(……)]?$</item>
   <item enabled="true">r=^[0-9零一二两三四五六七八九十百千万萬亿nN①②③④⑤⑥⑦⑧⑨⑩]{1,4}(刷|周[木目]|收藏)$</item>
   <item enabled="true">r=周[木目]($|.*(我|回|起|报|人|过|来|此))|重温|重看|前排|(最后|[再在][来來看康])[一亿億逸][遍边]|[补補]番|考古|[瞧看]我发现了什么</item>
   <item enabled="true">r=[陪赔].*看$</item>
@@ -34,10 +34,10 @@
   <item enabled="true">r=卡[得地的](难受|[想要]死|上天)</item>
   <item enabled="true">r=口[气氣気].*[集级极]</item>
   <item enabled="true">r=^(完结)?撒花$|[Ww][Aa][Nn]\s{0,}[Jj]</item>
-  <item enabled="true">r=[0-9万名个].{0,6}[伴你们人友]($|.*[看豪嚎号好])</item>
+  <item enabled="true">r=[^每][0-9万名个].{0,6}[伴你们人友]($|.*[看豪嚎号好])</item>
   <item enabled="true">r=(其它|其他|另|另外).{1,5}[个位名铭明为只头].*[好嚎耗豪]|(你们|大家).*好</item>
   <item enabled="true">r=[各诸]位.*好</item>
-  <item enabled="true">r=[0-9一二两俩三四五六七八九十]{0,5}[个人位为名只头]([也还]?[在再]?观?看|[大小]?([朋喷盆]友|伙伴|兄弟)|老[哥铁兄弟]|[观観][看众衆])</item>
+  <item enabled="true">r=[0-9一二两俩三四五六七八九十]{1,5}[个人位为名只头]([也还]?[在再]?观?看|[大小]?([朋喷盆]友|伙伴|兄弟)|老[哥铁兄弟]|[观観][看众衆])</item>
   <item enabled="true">r=^(\d|([好很]|这么)多人)*.?(播放|[在再]?(观|一[齐起快块酷爱同])[看补])|[观観][看众衆][0-9]|当前[观観]看|[观観]看人数|(当前|(现在|只)有?)[0-9一二两俩三四五六七八九十百千万萬亿①②③④⑤⑥⑦⑧⑨⑩几]{1,5}个?人</item>
   <item enabled="true">r=^[0-9一二两俩三四五六七八九十百千万萬亿①②③④⑤⑥⑦⑧⑨⑩几]{1,5}个?(人|小?([朋喷盆]友|伙伴)|老[哥铁兄弟]|[观観][看众衆])</item>
   <item enabled="true">r=^[\d零一二两三四五六七八九十百千万萬亿]+([百千万萬亿]|庆祝)$</item>
@@ -54,7 +54,7 @@
   <item enabled="true">r=[马馬][冬东]|[冬东]梅|[马馬]什么梅</item>
   <item enabled="true">r=(豆[腐花]脑?|饺子).*[酸甜苦辣咸臭糖盐醋]|[酸甜苦辣咸臭糖盐醋].*(豆[腐花]脑?|饺子)</item>
   <item enabled="true">r=[我你妳]的?(床上|老婆|老公|女儿|儿子|崽|丈母娘|[男女]朋?友)|[拔亮][刀剑]吧|不服来.?战|三年.*(不亏|死刑)|我家[^房屋里]</item>
-  <item enabled="true">r=心疼我家|^不许|老东西|([干为]([馬嘛吗码马玛🐎妈媽🐴]|什么)|怎么)能?[这辣][个样么]|呜呜|可怜的|乖了|我的?[大小]?宝贝|(可爱|天)[了啦噜]|[宝小].[来乖]|可可爱爱|委委屈屈|亲亲|抱抱|举高高|辣么|[撅噘嘴]嘴|[Ss是][Zz真][Dd的]$|宠粉|宝藏[男女]孩|^老公|哭哭|绝绝子|救命🆘|爹咪|可耐|桑心|在逃公主|暴风吸入|搓手手|跺([Jj][Ii]?[o]|脚脚)</item>
+  <item enabled="true">r=心疼我家|^不许|老东西|([干为]([馬嘛吗码马玛🐎妈媽🐴]|什么)|怎么)能?[这辣][个样么]|呜呜|可怜的|乖了|我的?[大小]?宝贝|(可爱|天)[了啦噜]|[宝小].[来乖]|可可爱爱|委委屈屈|亲亲|抱抱|举高高|辣么|[撅噘嘴]嘴|[Ss是][Zz真][Dd的]$|宠粉|宝藏[男女]孩|^老公|哭哭|绝绝子|救命🆘|爹咪|可耐|桑心|在逃公主|暴风吸入|搓手手|[跺翘]([Jj][Ii]?[o]|脚脚)</item>
   <item enabled="true">r=[把吧].*[还换](给我|回来)|[小Xx]([Ii][Aa][Oo])([鸽嗝哥葛格]|[Gg][Ee]?){2}|bjyx|博君一[笑肖]|[日韩内][圈娱]|粪圈|[就坐]地排卵|(集体|颅内|自我)[高Gg][潮Cc]|冲鸭[!！]?$|哭唧唧</item>
   <item enabled="true">t=自嗨</item>
   <item enabled="true">r=[脑Nn][残Cc]粉</item>
@@ -69,7 +69,7 @@
   <item enabled="true">r=^[BbDdIiLl]+$</item>
   <item enabled="true">r=[许許取需计祈还還换环]个?[愿怨原源願]|[愿怨原源願][许許需计祈还還换环出]|[许許需计祈还還换环出][愿怨原源願]?[必闭][还還换环]|[Xx][UuYyUuAa]{2,4}[Nn]|我{2,}|[万玩萬][一壹阴].*[呢呐吶訥了]|中[奖!！\.。·…]|^(拉低)+$|^([我冲]|[Mm][Ee])+$|^[万萬][一壹]$|^([选是抽]我)+|([选是抽]我)$|[Ww][Aa][Nn][Yy][Ii]|万y|拉低中[奖将讲浆桨]|^[给让]?[我爷][中出][\!\?！？，,、～~\s]?$|[Zz][Hh][Oo0][Nn][Gg]|[做当].*分母|^[我爷]来试|[黑黒]幕|^(我可以|^(万一|[试看]{2})呢)$|[Ll][Aa][Dd][Ii]|我也?想中|^(这里|求中)+$|给个(机会|鸡喙)|^中.?奖$|^万一中了?呢?$|(抽奖|[做当]个?)分母|^(拉低|怎么|必须?|不|一定会?)?中$|^[中肿]起来?$|^([抽中]奖)+$|^中$|[求球⚽️]{2}[了辽啦辣拉]?|[求球⚽️][\!！]|^[求中]+$|^中[啊呀]$</item>
   <item enabled="true">r=[完玩课氪干赣淦幹]到([关停官闭]服|下架)</item>
-  <item enabled="true">r=([用拿]|[献祭][献祭记计]|挂科|(十|1?0)[0-9一二三四五六七八九十]?[年公斤]|单身|阳寿|[寿生绳]命|头发|秃头).*[求换还抽出\,，]|[祭记计]天|(同[桌学學]|[舍校]友|[班校学][长長]|兄弟|姐妹).*[求换还抽出\,，]|出.*必[还還换环Hh]|^必出$|[小大]保底.*[出稳歪]|^[小大]保底$</item>
+  <item enabled="true">r=([用拿]|[献祭][献祭记计]|挂科|(十|1?0)[0-9一二三四五六七八九十]?[年公斤]|单身|阳寿|[寿生绳]命|头发|秃头).{0,5}[求换还抽出][^门剩]|[祭记计]天|(同[桌学學]|[舍校]友|[班校学][长長]|兄弟|姐妹).{0,8}[求换还抽出]|出.*必[还還换环Hh]|^必出$|[小大]保底.*[出稳歪]|^[小大]保底$</item>
   <item enabled="true">r=抽到.*吧|[来进]我([岛舰船壶]|身[边旁上])</item>
   <item enabled="true">r=([愿保助祝佑]|希望)我|考上|保佑</item>
   <item enabled="true">r=裸考|[^说]过了$</item>
@@ -108,9 +108,9 @@
   <item enabled="true">r=证明[你妳]</item>
   <item enabled="true">r=烦不烦|有完?没完</item>
   <item enabled="true">r=.{2,}我?(喜欢|爱|想|宣)[你妳]</item>
-  <item enabled="true">r=(只有|就|没有?)?[我人](觉[的地得]|[用哪拿]来|.*当[作做]|一直)</item>
+  <item enabled="true">r=(只有|就|没有?)[我人](觉[的地得]|[用哪拿]来|.*当[作做]|一直)</item>
   <item enabled="true">r=(就|只有)我一个.*([Mm][Aa]?|[馬嘛吗码马玛🐎妈媽🐴])|我就不喜欢</item>
-  <item enabled="true">r=[Pp批匹][Xx小][Jj将酱]|[ZzMmDd米舟粥]([WwXx卫][BbZz兵]|[黑黒])|[你妳贵饭粉肖虾][站国圈]|[孝嚣]子|[魔Mm][怔Zz][人Rr]</item>
+  <item enabled="true">r=[Pp批匹][Xx小][Jj将酱]|[ZzMmDd米舟粥]([WwXx卫][BbZz兵]|[黑黒])|[你妳贵饭粉肖虾][站国圈]|[孝嚣]子|[魔Mm][怔Zz][人Rr]|[Xx][Ii][Aa][Oo][Zz][Ii]</item>
   <item enabled="true">r=[猎牧]([Mm][Aa]?|[馬嘛吗码马玛🐎妈媽🐴])人</item>
   <item enabled="true">r=.总.*好|[恭欢]迎.总</item>
   <item enabled="true">r=([來来莱勒嘞雷累][了辽咯啦辣拉力热惹🌶️].?){2,}|[Ll][AaEe][Ii][Ll了]|^[我又]?[來来莱勒嘞雷累][了辽咯啦辣拉力热惹🌶️]</item>
@@ -133,9 +133,9 @@
   <item enabled="true">r=智力?障碍?|[Mm]?[Dd]?[Zz][Zz]|制杖</item>
   <item enabled="true">r=性[无無]能|阳痿|早泄|不举|快枪手|小(弟弟|鸡鸡|丁丁)|太监|[Xx]([Dd][Dd]|[Jj][Jj])</item>
   <item enabled="true">r=[弹彈][幕目](测试|[留劉]念)|^合[影照]|合[影照]$|[到来]此一游|留个.?脚印|(前来|进入)(观摩|围观|观战)</item>
-  <item enabled="true">r=[我你].{0,3}(老婆|媳妇|女儿|儿子|孙子)|[我你妳您宁].{0,3}女((朋|盆){0,3}友|人|票)|我的?男神|^.{2,6}[我咱].{0,2}的|.{1,}嫁.我|我[的哒]$|^.{0,6}[表告]白|[儿孙]子们|([是由]|下面.*)我[儿孙]子</item>
+  <item enabled="true">r=[我你].{0,3}(老婆|媳妇|女儿|儿子|孙子)|[我你妳您宁].{0,3}女((朋|盆){0,3}友|人|票)|我的?男神|.{1,}嫁.我|我[的哒]$|^.{0,6}[表告]白|[儿孙]子们|([是由]|下面.*)我[儿孙]子</item>
   <item enabled="true">r=(清|刷|增加|霸).{0,2}([弹彈][幕目]|屏|频|啊|呀|起[來来])|[求能]?[不别少]([要][再在]?)?[刷扯]|(消灭|拒绝)[0无没][弹彈][幕目]|[弹彈][幕目].{0,4}(压惊|冷[静精茎])|[发刷].{2,8}的</item>
-  <item enabled="true">r=到此一游|观光团|每[天日]\S{1,}|\S{1,}周目|[第每]\S{1,}遍|一[天日分秒]不[看听刷重循].*难受</item>
+  <item enabled="true">r=到此一游|观光团|^每[天日].[遍次][\S\,\.，。]?.{4}$|\S{1,}周目|[第每]\S{1,}遍|一[天日分秒]不[看听刷重循].*难受</item>
   <item enabled="true">r=[关關].*[弹彈]幕[^保智]|[当档挡].*([屏字]幕|字母)|[低底顶丁左右][端部舷弦][弹彈]幕|[Dd][Aa][Nn][Mm][Uu]|[关關][弹彈]幕了|[弹彈]幕数|[红紅橙黄绿綠青蓝紫黑黒白灰]色?字|专[属用][颜配]?色</item>
   <item enabled="true">r=地域[黑黒]</item>
   <item enabled="true">r=[妖帝魔伪废成]都|辽宁|吉林|[黑黒]龙江|[山陕江广]西|甘肃|青海|安徽|江苏|浙江|[河赫][男南北]|湖[北南]|[台薹臺呆湾弯][湾灣弯]|[福胡糊湖][健建]|[云海]南|四川|[贵广]州|[广山⛰️沙][东冬洞]|内蒙古|新疆|西藏|宁夏|北京|上海|天津|重庆|香港|澳[门門]|深圳|东[北白百]|瑞典</item>
@@ -149,7 +149,7 @@
   <item enabled="true">r=(百度|贴吧).*吧</item>
   <item enabled="true">r=[看跳调听神].*([Oo][Pp]|[Ee][Dd])|([Oo][Pp]|[Ee][Dd]).*[看跳调听神]|^[Oo][Pp]$|^[Ee][Dd]|[一没不还][抖滑有].*[一没不还][抖滑有]|[OoEe][PpDd].*[一不][抖滑]|(小手|[Oo][Pp]|[Ee][Dd])一[抖滑手]|[没不]有?跳</item>
   <item enabled="true">r=抄袭|借鉴|[既即]视感|这(难道|怎么|咋)?不就?是|越看越像|这(难道|怎么|咋)?不就?.*[么馬嘛吗码马玛🐎妈🐴没\?？]</item>
-  <item enabled="true">r=好生?气|气[炸死飞]</item>
+  <item enabled="true">r=好生?气|[^空]气[炸死飞]|^气[炸死飞]</item>
   <item enabled="true">r=云(玩家|用户|评测|测评|投票)|别云了|就[硬嗯]云</item>
   <item enabled="true">r=校友|握个?手|我也(是|一样)</item>
   <item enabled="true">r=(来|开始|不要|别)值班|值班言论</item>
@@ -196,7 +196,7 @@
   <item enabled="true">r=[说刷]([尼泥你妳您宁Nn]女?[馬嘛吗码马玛🐎妈媽🐴]|个?屁|什么)</item>
   <item enabled="true">r=跟.*没关系(([好行]|可以)?吧|[Oo][Kk])|有(何|什么|啥|毛线?|半?毛钱?)关系|有关系[么呢馬嘛吗码马玛🐎妈媽🐴\?？]</item>
   <item enabled="true">r=[果米][蛆吹]|(米|[Mm][Ii])[Bb][Oo][Yy]|[米海][猴侯🐒狗站]|[花黑黒][粉黒黑][^(症|过敏)]|海军|(锤|反串)[爆黑黒]|[索🔒锁软任][泥🐶狗猴🐒]|[拳👊]师|[女男蝻南][犬拳👊狗🐶]|直[男女]|耍猴|猴戏|(华为|海军|战狼)[Pp][Tt][Ss][Dd]|精\s{0,}神\s{0,}股\s{0,}东|[猾花]萎|某[华花菊米为]|(菊花|粗粮)(厂|公司|企业)|增.?智慧|方向错了|路走窄了|有失公允|徒增功耗|感知不强|花里胡哨|[翁嗡]{3,}|[辱乳][华米]|米系[Kk][Oo][Ll]|[菊哇娃瓦蛙]为|猴子|[粉粪]蛆|莱卡|[猴🐒]米</item>
-  <item enabled="true">r=[国蝈吊屌][男腩蝻癌子]</item>
+  <item enabled="true">r=[国蝈吊屌][男腩蝻癌子]|普信男</item>
   <item enabled="true">r=能当[做坐作]?饭吃</item>
   <item enabled="true">r=吃[你妳您宁]家(大?米|粮食?|东西|的|什么|啥子?)[了辽咯啦辣拉力🌶️]</item>
   <item enabled="true">r=别.*(搞笑|[洗吹黑黒舔添喷])了|(无脑|反串|跟风)[黑黒喷]|为了?[黑黒喷]而[黑黒喷]|(故意|乱|瞎([鸡几吉Jj🐓🐣🐤🐥🐔][巴八吧把BbRr儿二耳尔👂])?)[黑黒喷]|不吹不[黑黒]|[喷噴]子</item>
@@ -209,7 +209,7 @@
   <item enabled="true">r=我(的|今[天日])?(生|破[蛋壳]|[诞誕]生)日|今[天日]是?我的?(生|破[蛋壳]|[诞誕]生)日</item>
   <item enabled="true">r=鄙视|[^a-zA-Z][Bb][Ii][Ss][Ss][^a-zA-Z]</item>
   <item enabled="true">r=自以为是|不会真|真就?(以为|认为|觉得|哪里?都)|真就.*[呗馬嘛吗码马玛🐎妈媽🐴\?？么]</item>
-  <item enabled="true">r=[贵跪]族</item>
+  <item enabled="true">r=[贵跪]族|跪太?[久长多](时间)?了</item>
   <item enabled="true">r=[你妳您宁].*还是</item>
   <item enabled="true">r=[说喷說].*的.*(是[^(魔鬼)]|觉得|过分|确定|[滚买穷钱]|忘记?了|[试看]{2}|建议)</item>
   <item enabled="true">r=的(那个|你)够了</item>
@@ -232,8 +232,8 @@
   <item enabled="true">r=^惹</item>
   <item enabled="true">r=呕|[D口]\s?区|吐了|想吐$|^([Oo][Uu])+$</item>
   <item enabled="true">r=在[？，。\?]</item>
-  <item enabled="true">r=掉分|.分(不能.?多了|顶天)|分给?太高|[0-2零一]([分\'‘]|[Ff][Ee][Nn])|^分给高了$|^太?[高低]了$</item>
-  <item enabled="true">r=(手?持|头戴|用|[戴带拿]着?).*观?看</item>
+  <item enabled="true">r=掉分|.分(不能.?多了|顶天)|分给?太高|^[0-2零一]([分\'‘]|[Ff][Ee][Nn])$|^分给高了$|^太?[高低]了$</item>
+  <item enabled="true">r=(手?持|头戴|用|[戴带拿]着?)(.{2,8}|[a-zA-Z0-9\s]{2,})观?看</item>
   <item enabled="true">r=[DdBb][Ii][Ss][Ss]|[^大]司马[^懿炎昭]|[你妳您宁]女?[馬嘛吗码马玛🐎妈媽🐴]|[司死]个?[馬嘛吗码马玛🐎妈媽🐴]</item>
   <item enabled="true">r=不[香好想]用?[馬嘛吗码马玛🐎妈媽🐴么]|不[香好想]用?[？\?]|香.{0,3}[？\?]</item>
   <item enabled="true">r=还是(算了|省省)</item>
@@ -338,7 +338,7 @@
   <item enabled="true">t=出来挨打</item>
   <item enabled="true">r=要脸不|要点.?脸吧</item>
   <item enabled="true">r=没把.*放.?眼里</item>
-  <item enabled="true">r=[你妳您宁尼泥]来</item>
+  <item enabled="true">r=[那换改成][你妳您宁尼泥]来</item>
   <item enabled="true">r=^([Tt][Ee][Ss][Tt]|测试)$</item>
   <item enabled="true">r=扯.{0,2}[淡蛋犊子]|瞎.{0,2}扯|忽悠</item>
   <item enabled="true">r=[你您宁尼泥](以为|当)[做作坐]慈善</item>
@@ -575,7 +575,6 @@
   <item enabled="true">r=你们这[群些种样].*的?人</item>
   <item enabled="true">r=([憋别]|不要)[成整一]天</item>
   <item enabled="true">r=一直.*[好行]吧</item>
-  <item enabled="true">r=就?[有用].*[上了的]</item>
   <item enabled="true">r=盲猜又[有是]</item>
   <item enabled="true">r=[用玩](剩[下了]?|烂了?)的</item>
   <item enabled="true">r=[左右]上角</item>
@@ -613,10 +612,10 @@
   <item enabled="true">r=(听|感[觉受])不(出来?|[到了])[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
   <item enabled="true">r=不会用.*[么馬嘛吗码马玛🐎妈媽🐴没不\?？]</item>
   <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?.*(([有能配]|可以|做[的地得]到).*[么馬嘛吗码马玛🐎妈媽🐴没不\?？]|([属确着]实|真[的是]?)(([能行]|[做作][得的地]到)[么馬嘛吗码马玛🐎妈媽🐴没不\?？]|做不到|没?有这个|不([能行]|可以|彳亍)|没[法的地得]比|比不[上了]|不好用)|[卡狗🐶]|(还是?|就)?(算了|别扯))</item>
-  <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii]).*(国[内外产企]|[中美爱外][国过锅郭蝈]|[抄偷像]|借鉴|复制|领先|碰瓷|跟风)|(国[内外产企]|[中美爱外][国过锅郭蝈]|[抄偷像]|借鉴|复制|领先|碰瓷|跟风).*([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])</item>
+  <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii]).*(国[内外产企]|[中美爱外][国过锅郭蝈]|[抄偷像]|借鉴|复制|领先|碰瓷|跟风|自研|创新)|(国[内外产企]|[中美爱外][国过锅郭蝈]|[抄偷像]|借鉴|复制|领先|碰瓷|跟风|自研|创新).*([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])</item>
   <item enabled="true">r=^(([我坚]?[决绝]对?)?不会?去?买)?([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?$</item>
   <item enabled="true">r=([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?.*比.*([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?</item>
-  <item enabled="true">r=((不如|我选择?)买?|不就?是|干翻|不用)([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?</item>
+  <item enabled="true">r=((不如|我选择?)买?|不就?是|干翻|不用|完爆|吊打)([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii])[》\?？]?</item>
   <item enabled="true">r=(还是|[比没])([Ww][Ii][Nn]([Dd][Oo][Ww][Ss])?|[微巨][软硬]|谷[歌哥割鸽]|[Gg][Oo][Oo][Gg][Ll][Ee]|[Gg][Uu][Gg][Ee]|安卓|[Aa]ndroid|小米|魅族|华为|联想|神[州舟船]|三星|戴尔|[Dd][Ee][Ll][Ll]|惠普|雷蛇|[Rr][Aa][Zz][Oo][Rr]|外星人|[Aa]([Ll][Ii][Ee][Nn])?[Ww]|[Oo][Pp][Pp][Oo]|[Vv][Ii][Vv][Oo]|[苹蘋][果粿]|索尼|[Ss][Oo][Nn][Yy]|[Pp][Ii][Nn]([Gg][Gg][Uu][Oo])?|[Aa][Pp][Pp][Ll][Ee]|[iI][Oo][Ss]|[iI][Pp][hH][oO][nN][eE]|[Mm][Aa][Cc]([Bb][Oo][Oo][Kk])?|[Ff]lyme|[Mm][Ii][Uu][Ii]).*([六流牛Nn🐂🐄🐮][逼比笔子缺Bb货币Pp匹劈批皮🍺]|[好难]|丑|强)</item>
   <item enabled="true">r=[这一]辈子都?不会?去?买</item>
   <item enabled="true">t=狗都不</item>
@@ -689,4 +688,5 @@
   <item enabled="true">t=典中典</item>
   <item enabled="true">r=[算是]个?(什么|[啥屁吊屌雕馬嘛吗码马玛🐎妈🐴]|毛线?)东西|算老几</item>
   <item enabled="true">t=我嫩叠</item>
+  <item enabled="true">r=你又?是个?什么牛[馬嘛吗码马玛🐎媽妈🐴]</item>
 </filters>
