@@ -67,10 +67,14 @@ matchPlainText = {}
 loadfile()
 if len(sys.argv) == 1:
 	while True:
-		testResult, matched = testRegex(str(input('输入需要测试的弹幕：')))
-		for i in testResult:
-			print(i)
-		print('共命中' + str(matched) + '条正则\n')
+		testString = input('输入需要测试的弹幕：')
+		if testString != '':
+			testResult, matched = testRegex(testString)
+			for i in testResult:
+				print(i)
+			print('共命中' + str(matched) + '条正则\n')
+		else:
+			continue
 else:
 	danmakuPath = ''
 	for i in sys.argv:
@@ -96,7 +100,11 @@ else:
 	if danmakuPath == '':
 		print('未找到需要分析的弹幕文件路径！')
 		while True:
-			testResult, matched = testRegex(str(input('输入需要测试的弹幕：')))
-			for i in testResult:
-				print(i)
-			print('共命中' + str(matched) + '条正则\n')
+			testString = input('输入需要测试的弹幕：')
+			if testString != '':
+				testResult, matched = testRegex(testString)
+				for i in testResult:
+					print(i)
+				print('共命中' + str(matched) + '条正则\n')
+			else:
+				continue
