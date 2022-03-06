@@ -202,7 +202,7 @@
   <item enabled="true">r=[国蝈吊屌][男腩蝻癌子]|普信男</item>
   <item enabled="true">r=能当[做坐作]?饭吃</item>
   <item enabled="true">r=吃[你妳您宁]家(大?米|粮食?|东西|的|什么|啥子?)[了辽咯啦辣拉力🌶️]</item>
-  <item enabled="true">r=别.*(搞笑|[洗吹黑黒舔添喷])了|(无脑|反串|跟风)[黑黒喷]|为了?[黑黒喷]而[黑黒喷]|(故意|乱|瞎([鸡几吉Jj🐓🐣🐤🐥🐔][巴八吧把BbRr儿二耳尔👂])?)[黑黒喷]|不吹不[黑黒]|[喷噴]子</item>
+  <item enabled="true">r=别.*(搞笑|[洗吹黑黒舔添喷])了|(无脑|反串|跟风)[黑黒喷]|为了?[黑黒喷吹]而[黑黒喷吹]|(故意|乱|瞎([鸡几吉Jj🐓🐣🐤🐥🐔][巴八吧把BbRr儿二耳尔👂])?)[黑黒喷]|不吹不[黑黒]|[喷噴]子</item>
   <item enabled="true">t=拉倒</item>
   <item enabled="true">r=[阴Yy][阳Yy][怪Gg][气Qq]</item>
   <item enabled="true">r=还有脸|说[得的]出口</item>
@@ -694,4 +694,5 @@
   <item enabled="true">r=是个?什么牛[馬嘛吗码马玛🐎媽妈🐴]</item>
   <item enabled="true">t=这还有人说</item>
   <item enabled="true">r=[你妳您宁嬺柠][㜫馬吗码马玛🐎妈媽🐴檬](什么|啥子?|毛线?)时候</item>
+  <item enabled="true">r=[A-Za-z][Xx][Zz]|^.{0,1}学长</item>
 </filters>
