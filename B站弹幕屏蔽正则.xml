@@ -695,5 +695,5 @@
   <item enabled="true">t=这还有人说</item>
   <item enabled="true">r=[你妳您宁嬺柠][㜫馬吗码马玛🐎妈媽🐴檬](什么|啥子?|毛线?)时候</item>
   <item enabled="true">r=[A-Za-z][Xx][Zz]|^.{0,1}学长</item>
-  <item enabled="true">r=看到(我|这条)你?就不是第.了</item>
+  <item enabled="true">r=看到(我|这条)你?就(已经)?不是第.了</item>
 </filters>
