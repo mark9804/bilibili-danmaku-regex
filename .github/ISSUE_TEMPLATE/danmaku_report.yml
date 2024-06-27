@@ -1,0 +1,21 @@
+name: 未屏蔽弹幕内容
+description: Create a report to help us improve
+title: "[未屏蔽弹幕内容] "
+labels:
+  - danmaku
+assignees: "mark9804"
+
+body:
+  - type: textarea
+    attributes:
+      label: 弹幕内容/截图
+      description: 请填写弹幕内容
+      placeholder: 请填写弹幕内容
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 相关视频
+      description: 请填写相关视频的AV号
+      placeholder: 请填写相关视频的AV号
